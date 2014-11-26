@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SearchIndexes Version="1.0">
+    <Documents>
+        <Document ID="3">
+            <Title>Affected Parties</Title>
+        </Document>
+        <Document ID="4">
+            <Title>Background</Title>
+        </Document>
+        <Document ID="5">
+            <Title>Scope</Title>
+            <Synopsis>Defines the boundaries of a project. Think of the scope as an imaginary box that will enclose all the project elements/activities. It not only defines what you are doing (what goes into the box), but it sets limits for what will not be done as part of the project (what doesn’t fit in the box).  Scope answers questions including what will be done, what won’t be done, and what the result will look like.]</Synopsis>
+            <Text>Project scope
+
+Project scope defines the boundaries of a project. Think of the scope as an imaginary box that will enclose all the project elements/activities. It not only defines what you are doing (what goes into the box), but it sets limits for what will not be done as part of the project (what doesn’t fit in the box).  Scope answers questions including what will be done, what won’t be done, and what the result will look like.]
+
+</Text>
+        </Document>
+        <Document ID="6">
+            <Title>High-level requirements</Title>
+        </Document>
+        <Document ID="7">
+            <Title>Deliverables</Title>
+        </Document>
+        <Document ID="8">
+            <Title>Affected business processes and systems</Title>
+        </Document>
+        <Document ID="9">
+            <Title>Specific exclusions from Scope</Title>
+        </Document>
+        <Document ID="10">
+            <Title>Implementation Plan</Title>
+        </Document>
+        <Document ID="11">
+            <Title>High-level timeline and schedule</Title>
+        </Document>
+        <Document ID="12">
+            <Title>Dicussion with Rob Hare</Title>
+            <Text>Rob is the Architect and is very interested in establishing and PaaS solution for Betair - below are some notes captured from email conversations with Rob
+
+Hi Corne, just been chatting to Matt about how you’ve advanced on docker; super cool. I’m just sharing some thoughts of mine around how I think we should approach machine creation. I am a big fan of Paas; the openshift stack is aligned to run docker.
+
+Have a look through the below and chat some with Mat; Keen to hear thoughts on this as an option
+
+https://openshift.github.io/
+https://blog.openshift.com/openshift-v3-platform-combines-docker-kubernetes-atomic-and-more/
+
+*The note worthy pieces:
+            Redhat have been working to productionise docker
+            Redhat also have a commercially supported offering of openshift, as well as a cloud offering so there is some good flexibility
+
+
+Hi Rob,
+
+I completely agree that we should look at providing a platform as a service and get to a point where Dev can provision their own VM’s / Containers and spin up infrastructure as required. This will be hugely beneficial in getting us to our continuous delivery “goal”.
+
+Thanks for the links below.   
+
+I have started to collect and categorise tools around Docker. (Please add to this if you see anything missing, or stumble upon something).
+Containerization technologies like Docker moves so fast and we should constantly look and see what is out there. 
+
+https://confluence.app.betfair/display/AusLinux/Docker+-+Related+Tools
+
+Openshift have a few Docker related projects, and seem to be at the cutting edge around containerization tooling, looks very interesting.
+
+I will certainly keep working with Matt on Docker. I have also been tasked to compile a report to look at continuous delivery and see how IS can work closer with DEV and allow for automated builds and deployments, promotion of builds to various delivery phases (DEV, PPx, NXT, PROD) and hopefully provide a PaaS solution within the organisation.
+
+I’m aware of some “bare-metal” servers (6 or 8 of physical racks – not sure about specs) that we could use for a proof of concept PaaS solution. I have in the past worked with OpenStack and it also now supports container/Docker orchestration and we could evaluate this in conjunction with Openshift. 
+https://wiki.openstack.org/wiki/Heat
+
+This is very existing and we have a real opportunity here to make a difference! Lets keep the communication and workgroup going ?
+
+Keep well and chat soon.
+</Text>
+        </Document>
+        <Document ID="13">
+            <Title>Ramesh comms with Steve - CD from IS perspective</Title>
+            <Text>Steve,
+
+High level summary of what CD objectives are from an IS perspective
+
+WHAT
+Devs to be able to deploy Software to DEV?NXT?PP1/2/3
+WHY 
+Increase velocity/speed of deployments (Ultimately speed to market….)
+HOW 
+Partition Infrastructure Config/Application config into discrete components
+Devs Responsible &amp; Accountable for Application Config
+IS Responsible &amp; Accountable for Platform config
+Build pipeline to facilitate automated promotion of packages from one Environment to the Next.
+Automated Testing is a pre-requisite for this to succeed.
+Automated Fortify scan of source code.
+
+Thanks
+Ramesh
+</Text>
+        </Document>
+        <Document ID="14">
+            <Title>02_CD_test_strategy_low-res</Title>
+        </Document>
+        <Document ID="15">
+            <Title>03_CD_automated_acceptance_test_low-res</Title>
+        </Document>
+        <Document ID="16">
+            <Title>04_CD_managing_data_low-res</Title>
+        </Document>
+        <Document ID="17">
+            <Title>01_CD_the_idea_low-res</Title>
+        </Document>
+        <Document ID="18">
+            <Title>Images</Title>
+        </Document>
+    </Documents>
+</SearchIndexes>
