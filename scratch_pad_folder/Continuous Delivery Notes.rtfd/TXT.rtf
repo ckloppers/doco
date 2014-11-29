@@ -6,8 +6,28 @@
 \f0\fs24 \cf0 * Every commit a candidate for Deployment\
 * Build single deployable artifact\
  * Continuous Delivery doesn\'92t mean every change is deployed to production. It means every change is proven to be deployable at any time.\
+* Continuous delivery is a capability to continually deploy software to production as frequently as needed.\
+\
+Why CD?\
+=======\
+Improve speed to market\
+Ensured quality\
+Deploying code is seamless, no longer strenuous\
+Improves you disaster recovery / Business continuity\
+Improve business agility\
+\
 \
 Beginnings of a deployment pipeline\
 ===========================\
 Commit Tests -> Integration Tests -> Deployable Artifact -> Deploy to Env\
+\
+SCM -> \
+Continuous Integration Tests (Unit Tests) ->\
+ (optional) System Integration Tests (SIT) ->\
+ (optional) Operational Acceptance Test (OAT) ->\
+ (optional) Security Tests ->\
+ (optional) Compliance Tests ->\
+Deploy ->\
+Deliver\
+\
 }
