@@ -1,34 +1,38 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<ScrivenerProject Version="1.0" Creator="SCRMAC-2.6-25479" Modified="2014-11-29 21:54:43 +1100">
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrivenerProject Template="No" Version="1.0" Creator="SCRWIN-1.7.3.0">
     <Binder>
-        <BinderItem ID="0" Type="DraftFolder" Created="2014-11-26 10:25:32 +1100" Modified="2014-11-29 21:48:33 +1100">
+        <BinderItem ID="0" Created="2014-11-26 21:25:32 +0000" Modified="2014-11-30 08:48:33 +0000" Type="DraftFolder">
             <Title>CD - IS Perspecitve</Title>
+            <MetaData>
+                <NotesTextSelection>0,0</NotesTextSelection>
+            </MetaData>
             <CorkboardAndOutliner>
-                <SelectedSubdocumentIDs></SelectedSubdocumentIDs>
                 <CorkboardSettings>
                     <FreeformMode>Yes</FreeformMode>
                     <FreeformCorkboardDocuments>
-                        <IndexCardBinderID Position="1.48931,0.705" TimeStamp="2014-11-28 06:52:46 +1100">3</IndexCardBinderID>
-                        <IndexCardBinderID Position="2.631693,0.720977" TimeStamp="2014-11-28 06:52:44 +1100">8</IndexCardBinderID>
-                        <IndexCardBinderID Position="1.36582,0.036393" TimeStamp="2014-11-28 06:52:42 +1100">5</IndexCardBinderID>
-                        <IndexCardBinderID Position="1.267109,1.393841" TimeStamp="2014-11-28 06:52:47 +1100">10</IndexCardBinderID>
+                        <IndexCardBinderID Position="1.489310,0.705000" TimeStamp="2014-11-28 06:52:46 +1100">3</IndexCardBinderID>
+                        <IndexCardBinderID Position="0.090000,0.053333" TimeStamp="2014-11-27 18:16:13 +1100">4</IndexCardBinderID>
+                        <IndexCardBinderID Position="1.365820,0.036393" TimeStamp="2014-11-28 06:52:42 +1100">5</IndexCardBinderID>
                         <IndexCardBinderID Position="2.516536,0.035977" TimeStamp="2014-11-28 06:52:40 +1100">6</IndexCardBinderID>
-                        <IndexCardBinderID Position="2.748464,1.448437" TimeStamp="2014-11-28 06:52:49 +1100">11</IndexCardBinderID>
-                        <IndexCardBinderID Position="0.09,0.053333" TimeStamp="2014-11-27 18:16:13 +1100">4</IndexCardBinderID>
-                        <IndexCardBinderID Position="0.103333,1.3" TimeStamp="2014-11-27 18:16:13 +1100">9</IndexCardBinderID>
                         <IndexCardBinderID Position="0.136667,0.686667" TimeStamp="2014-11-27 18:16:13 +1100">7</IndexCardBinderID>
+                        <IndexCardBinderID Position="2.631693,0.720977" TimeStamp="2014-11-28 06:52:44 +1100">8</IndexCardBinderID>
+                        <IndexCardBinderID Position="0.103333,1.300000" TimeStamp="2014-11-27 18:16:13 +1100">9</IndexCardBinderID>
+                        <IndexCardBinderID Position="1.267109,1.393841" TimeStamp="2014-11-28 06:52:47 +1100">10</IndexCardBinderID>
+                        <IndexCardBinderID Position="2.748464,1.448437" TimeStamp="2014-11-28 06:52:49 +1100">11</IndexCardBinderID>
                     </FreeformCorkboardDocuments>
                 </CorkboardSettings>
             </CorkboardAndOutliner>
             <Children>
-                <BinderItem ID="4" Type="Text" Created="2014-11-26 10:26:06 +1100" Modified="2014-11-26 10:34:09 +1100">
+                <BinderItem ID="4" Created="2014-11-26 21:26:06 +0000" Modified="2014-12-01 03:53:24 +0000" Type="Text">
                     <Title>Background</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>0,0</TextSelection>
+                        <TextSelection>943,943</TextSelection>
+                        <Target Type="Words">0</Target>
                     </TextSettings>
                     <CorkboardAndOutliner>
                         <CorkboardSettings>
@@ -36,7 +40,7 @@
                         </CorkboardSettings>
                     </CorkboardAndOutliner>
                 </BinderItem>
-                <BinderItem ID="5" Type="Text" Created="2014-11-26 10:27:14 +1100" Modified="2014-11-26 10:28:56 +1100">
+                <BinderItem ID="5" Created="2014-11-26 21:27:14 +0000" Modified="2014-11-26 21:28:56 +0000" Type="Text">
                     <Title>Scope</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -44,7 +48,8 @@
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>14,14</TextSelection>
+                        <TextSelection>436,436</TextSelection>
+                        <Target Type="Words">0</Target>
                     </TextSettings>
                     <CorkboardAndOutliner>
                         <CorkboardSettings>
@@ -52,14 +57,14 @@
                         </CorkboardSettings>
                     </CorkboardAndOutliner>
                 </BinderItem>
-                <BinderItem ID="6" Type="Text" Created="2014-11-26 10:29:05 +1100" Modified="2014-11-26 10:29:27 +1100">
+                <BinderItem ID="6" Created="2014-11-26 21:29:05 +0000" Modified="2014-11-26 21:29:27 +0000" Type="Text">
                     <Title>High-level requirements</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>0,0</TextSelection>
+                        <Target Type="Words">0</Target>
                     </TextSettings>
                     <CorkboardAndOutliner>
                         <CorkboardSettings>
@@ -67,14 +72,14 @@
                         </CorkboardSettings>
                     </CorkboardAndOutliner>
                 </BinderItem>
-                <BinderItem ID="7" Type="Text" Created="2014-11-26 10:29:43 +1100" Modified="2014-11-26 10:30:12 +1100">
+                <BinderItem ID="7" Created="2014-11-26 21:29:43 +0000" Modified="2014-11-26 21:30:12 +0000" Type="Text">
                     <Title>Deliverables</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>0,0</TextSelection>
+                        <Target Type="Words">0</Target>
                     </TextSettings>
                     <CorkboardAndOutliner>
                         <CorkboardSettings>
@@ -82,14 +87,14 @@
                         </CorkboardSettings>
                     </CorkboardAndOutliner>
                 </BinderItem>
-                <BinderItem ID="3" Type="Text" Created="2014-11-26 10:30:28 +1100" Modified="2014-11-26 10:31:27 +1100">
+                <BinderItem ID="3" Created="2014-11-26 21:30:28 +0000" Modified="2014-11-26 21:31:27 +0000" Type="Text">
                     <Title>Affected Parties</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>0,0</TextSelection>
+                        <Target Type="Words">0</Target>
                     </TextSettings>
                     <CorkboardAndOutliner>
                         <CorkboardSettings>
@@ -97,7 +102,7 @@
                         </CorkboardSettings>
                     </CorkboardAndOutliner>
                 </BinderItem>
-                <BinderItem ID="8" Type="Text" Created="2014-11-26 10:31:36 +1100" Modified="2014-11-26 10:32:03 +1100">
+                <BinderItem ID="8" Created="2014-11-26 21:31:36 +0000" Modified="2014-11-26 21:32:03 +0000" Type="Text">
                     <Title>Affected business processes and systems</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -105,6 +110,7 @@
                     </MetaData>
                     <TextSettings>
                         <TextSelection>40,40</TextSelection>
+                        <Target Type="Words">0</Target>
                     </TextSettings>
                     <CorkboardAndOutliner>
                         <CorkboardSettings>
@@ -112,14 +118,14 @@
                         </CorkboardSettings>
                     </CorkboardAndOutliner>
                 </BinderItem>
-                <BinderItem ID="9" Type="Text" Created="2014-11-26 10:32:11 +1100" Modified="2014-11-26 10:32:34 +1100">
+                <BinderItem ID="9" Created="2014-11-26 21:32:11 +0000" Modified="2014-11-26 21:32:34 +0000" Type="Text">
                     <Title>Specific exclusions from Scope</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>0,0</TextSelection>
+                        <Target Type="Words">0</Target>
                     </TextSettings>
                     <CorkboardAndOutliner>
                         <CorkboardSettings>
@@ -127,14 +133,14 @@
                         </CorkboardSettings>
                     </CorkboardAndOutliner>
                 </BinderItem>
-                <BinderItem ID="10" Type="Text" Created="2014-11-26 10:32:43 +1100" Modified="2014-11-26 10:32:57 +1100">
+                <BinderItem ID="10" Created="2014-11-26 21:32:43 +0000" Modified="2014-11-26 21:32:57 +0000" Type="Text">
                     <Title>Implementation Plan</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>0,0</TextSelection>
+                        <Target Type="Words">0</Target>
                     </TextSettings>
                     <CorkboardAndOutliner>
                         <CorkboardSettings>
@@ -142,14 +148,14 @@
                         </CorkboardSettings>
                     </CorkboardAndOutliner>
                 </BinderItem>
-                <BinderItem ID="11" Type="Text" Created="2014-11-26 10:33:05 +1100" Modified="2014-11-26 10:33:59 +1100">
+                <BinderItem ID="11" Created="2014-11-26 21:33:05 +0000" Modified="2014-11-26 21:33:59 +0000" Type="Text">
                     <Title>High-level timeline and schedule</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>0,0</TextSelection>
+                        <Target Type="Words">0</Target>
                     </TextSettings>
                     <CorkboardAndOutliner>
                         <CorkboardSettings>
@@ -159,25 +165,25 @@
                 </BinderItem>
             </Children>
         </BinderItem>
-        <BinderItem ID="1" Type="ResearchFolder" Created="2014-11-26 10:25:32 +1100" Modified="2014-11-26 10:25:32 +1100">
+        <BinderItem ID="1" Created="2014-11-26 21:25:32 +0000" Modified="2014-11-26 21:25:32 +0000" Type="ResearchFolder">
             <Title>Research</Title>
+            <MetaData>
+                <NotesTextSelection>0,0</NotesTextSelection>
+            </MetaData>
             <CorkboardAndOutliner>
-                <SelectedSubdocumentIDs></SelectedSubdocumentIDs>
                 <CorkboardSettings>
                     <FreeformMode>Yes</FreeformMode>
                     <FreeformCorkboardDocuments>
-                        <IndexCardBinderID Position="0.16,1.346667" TimeStamp="2014-11-29 20:45:28 +1100">22</IndexCardBinderID>
-                        <IndexCardBinderID Position="1.143333,0.733333" TimeStamp="2014-11-29 20:43:32 +1100">20</IndexCardBinderID>
-                        <IndexCardBinderID Position="2.203333,0.053333" TimeStamp="2014-11-29 20:42:44 +1100">13</IndexCardBinderID>
-                        <IndexCardBinderID Position="2.126667,0.713333" TimeStamp="2014-11-29 20:44:48 +1100">21</IndexCardBinderID>
                         <IndexCardBinderID Position="0.196667,0.716667" TimeStamp="2014-11-29 20:42:44 +1100">18</IndexCardBinderID>
                         <IndexCardBinderID Position="0.116667,0.116667" TimeStamp="2014-11-29 20:42:44 +1100">19</IndexCardBinderID>
+                        <IndexCardBinderID Position="1.000000,1.000000" TimeStamp="2014-12-01 05:56:05 +0000">20</IndexCardBinderID>
                         <IndexCardBinderID Position="1.103333,0.123333" TimeStamp="2014-11-29 20:42:44 +1100">12</IndexCardBinderID>
+                        <IndexCardBinderID Position="2.203333,0.053333" TimeStamp="2014-11-29 20:42:44 +1100">13</IndexCardBinderID>
                     </FreeformCorkboardDocuments>
                 </CorkboardSettings>
             </CorkboardAndOutliner>
             <Children>
-                <BinderItem ID="19" Type="PDF" Created="2014-11-28 23:20:06 +1100" Modified="2014-11-28 23:20:06 +1100">
+                <BinderItem ID="19" Created="2014-11-29 10:20:06 +0000" Modified="2014-11-29 10:20:06 +0000" Type="PDF">
                     <Title>ITinvolve_WHITEPAPER_DefineYourDevOpsActionPlan_Nov-2014</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -187,15 +193,21 @@
                     <MediaSettings>
                         <CurrentPDFPage>3</CurrentPDFPage>
                     </MediaSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
                 </BinderItem>
-                <BinderItem ID="12" Type="Text" Created="2014-11-26 10:34:16 +1100" Modified="2014-11-26 10:39:29 +1100">
+                <BinderItem ID="12" Created="2014-11-26 21:34:16 +0000" Modified="2014-11-26 21:39:29 +0000" Type="Text">
                     <Title>Dicussion with Rob Hare</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>855,855</TextSelection>
+                        <TextSelection>22,22</TextSelection>
+                        <Target Type="Words">0</Target>
                     </TextSettings>
                     <CorkboardAndOutliner>
                         <CorkboardSettings>
@@ -203,14 +215,15 @@
                         </CorkboardSettings>
                     </CorkboardAndOutliner>
                 </BinderItem>
-                <BinderItem ID="13" Type="Text" Created="2014-11-26 10:39:41 +1100" Modified="2014-11-26 10:41:41 +1100">
+                <BinderItem ID="13" Created="2014-11-26 21:39:41 +0000" Modified="2014-11-26 21:41:41 +0000" Type="Text">
                     <Title>Ramesh comms with Steve - CD from IS perspective</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>6,6</TextSelection>
+                        <TextSelection>102,102</TextSelection>
+                        <Target Type="Words">0</Target>
                     </TextSettings>
                     <CorkboardAndOutliner>
                         <CorkboardSettings>
@@ -218,17 +231,22 @@
                         </CorkboardSettings>
                     </CorkboardAndOutliner>
                 </BinderItem>
-                <BinderItem ID="18" Type="Folder" Created="2014-11-26 10:42:34 +1100" Modified="2014-11-26 10:42:37 +1100">
+                <BinderItem ID="18" Created="2014-11-26 21:42:34 +0000" Modified="2014-11-26 21:42:37 +0000" Type="Folder">
                     <Title>Images</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>0,0</TextSelection>
+                        <Target Type="Words">0</Target>
                     </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>No</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
                     <Children>
-                        <BinderItem ID="14" Type="Image" Created="2014-11-25 08:31:57 +1100" Modified="2014-11-25 08:31:57 +1100">
+                        <BinderItem ID="14" Created="2014-11-25 19:31:57 +0000" Modified="2014-11-25 19:31:57 +0000" Type="Image">
                             <Title>02_CD_test_strategy_low-res</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -245,7 +263,7 @@
                                 </CorkboardSettings>
                             </CorkboardAndOutliner>
                         </BinderItem>
-                        <BinderItem ID="15" Type="Image" Created="2014-11-25 08:32:04 +1100" Modified="2014-11-25 08:32:04 +1100">
+                        <BinderItem ID="15" Created="2014-11-25 19:32:04 +0000" Modified="2014-11-25 19:32:04 +0000" Type="Image">
                             <Title>03_CD_automated_acceptance_test_low-res</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -262,7 +280,7 @@
                                 </CorkboardSettings>
                             </CorkboardAndOutliner>
                         </BinderItem>
-                        <BinderItem ID="16" Type="Image" Created="2014-11-25 08:32:11 +1100" Modified="2014-11-25 08:32:11 +1100">
+                        <BinderItem ID="16" Created="2014-11-25 19:32:11 +0000" Modified="2014-11-25 19:32:11 +0000" Type="Image">
                             <Title>04_CD_managing_data_low-res</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -279,7 +297,7 @@
                                 </CorkboardSettings>
                             </CorkboardAndOutliner>
                         </BinderItem>
-                        <BinderItem ID="17" Type="Image" Created="2014-11-25 08:31:49 +1100" Modified="2014-11-25 08:31:49 +1100">
+                        <BinderItem ID="17" Created="2014-11-25 19:31:49 +0000" Modified="2014-11-25 19:31:49 +0000" Type="Image">
                             <Title>01_CD_the_idea_low-res</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -298,43 +316,29 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem ID="20" Type="WebArchive" Created="2014-11-29 20:43:32 +1100" Modified="2014-11-29 20:43:32 +1100">
-                    <Title>Microservices, Docker and the Death of the Workflow Tool</Title>
+                <BinderItem ID="20" Created="2014-12-01 03:22:27 +0000" Modified="2014-12-01 03:49:58 +0000" Type="Text">
+                    <Title>General Notes</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
-                        <FileExtension>webarchive</FileExtension>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
-                    <MediaSettings>
-                        <OriginalURL>http://blog.xebialabs.com/2014/11/21/microservices-docker-death-workflow-tool/</OriginalURL>
-                    </MediaSettings>
-                </BinderItem>
-                <BinderItem ID="21" Type="WebArchive" Created="2014-11-29 20:44:48 +1100" Modified="2014-11-29 20:44:48 +1100">
-                    <Title>Continuous Delivery in the Real World: How to move from "thinking in Releases" to CD?</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <FileExtension>webarchive</FileExtension>
-                        <NotesTextSelection>0,0</NotesTextSelection>
-                    </MetaData>
-                    <MediaSettings>
-                        <OriginalURL>http://blog.xebialabs.com/2014/08/27/continuous-delivery-real-world-move-thinking-releases-cd/</OriginalURL>
-                    </MediaSettings>
-                </BinderItem>
-                <BinderItem ID="22" Type="WebArchive" Created="2014-11-29 20:45:28 +1100" Modified="2014-11-29 20:45:28 +1100">
-                    <Title>Continuous Delivery in the Real World: Moving to CD with a complex portfolio and compliance requirements</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <FileExtension>webarchive</FileExtension>
-                        <NotesTextSelection>0,0</NotesTextSelection>
-                    </MetaData>
-                    <MediaSettings>
-                        <OriginalURL>http://blog.xebialabs.com/2014/09/04/continuous-delivery-real-world-moving-cd-complex-portfolio-change-mgmt-requirements/</OriginalURL>
-                    </MediaSettings>
+                    <TextSettings>
+                        <TextSelection>1168,1168</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
                 </BinderItem>
             </Children>
         </BinderItem>
-        <BinderItem ID="2" Type="TrashFolder" Created="2014-11-26 10:25:32 +1100" Modified="2014-11-26 10:25:32 +1100">
+        <BinderItem ID="2" Created="2014-11-26 21:25:32 +0000" Modified="2014-11-26 21:25:32 +0000" Type="TrashFolder">
             <Title>Trash</Title>
+            <MetaData>
+                <NotesTextSelection>0,0</NotesTextSelection>
+            </MetaData>
             <CorkboardAndOutliner>
                 <CorkboardSettings>
                     <FreeformMode>Yes</FreeformMode>
@@ -343,12 +347,12 @@
         </BinderItem>
     </Binder>
     <Collections>
-        <Collection Type="Binder" ID="bc35eaf5-ba40-4bd8-aeb2-83d1a835d9fd" Color="0.784753 0.815752 0.848702">
+        <Collection Type="Binder" ID="bc35eaf5-ba40-4bd8-aeb2-83d1a835d9fd" Color="0.901961 0.917647 0.933333">
             <Title>Binder</Title>
         </Collection>
-        <Collection Type="RecentSearch" ID="b6d8765b-deb7-4457-b191-0e21d42e5581" Color="0.922 0.91 0.98">
+        <Collection Type="RecentSearch" ID="b6d8765b-deb7-4457-b191-0e21d42e5581" Color="0.901961 0.901961 0.980392">
             <Title>Search Results</Title>
-            <SearchSettings Operator="Exact" Type="All" CaseSensitive="No">?</SearchSettings>
+            <SearchSettings Operator="Exact" Type="All" Scope="All" CompileSetting="All" CaseSensitive="No">?</SearchSettings>
         </Collection>
     </Collections>
     <LabelSettings>
@@ -356,8 +360,8 @@
         <DefaultLabelID>-1</DefaultLabelID>
         <Labels>
             <Label ID="-1">No Label</Label>
-            <Label ID="0" Color="0.752941 0.752941 1.0">Concept</Label>
-            <Label ID="1" Color="1.0 0.752941 0.752941">Chapter</Label>
+            <Label ID="0" Color="0.752941 0.752941 1.000000">Concept</Label>
+            <Label ID="1" Color="1.000000 0.752941 0.752941">Chapter</Label>
         </Labels>
     </LabelSettings>
     <StatusSettings>
@@ -373,10 +377,10 @@
             <Status ID="5">Done</Status>
         </StatusItems>
     </StatusSettings>
-    <ProjectTargets Notify="No">
+    <ProjectProperties/>
+    <ProjectTargets>
         <DraftTarget Type="Words" CountIncludedOnly="No" CurrentCompileGroupOnly="No" Deadline="2014-11-27 18:15:58 +1100" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2014-11-29 21:43:47 +1100"></PreviousSession>
+        <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
     </ProjectTargets>
-    <PrintSettings PaperSize="595.0,842.0" LeftMargin="11.9906" RightMargin="11.9906" TopMargin="11.9906" BottomMargin="11.9906" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="No" ReverseOrder="No" PagesAcross="1" PagesDown="1"></PrintSettings>
+    <PrintSettings PaperType="A4" LeftMargin="11.9906" RightMargin="11.9906" TopMargin="11.9906" BottomMargin="11.9906" Orientation="Portrait" Collates="No" ReverseOrder="No"/>
 </ScrivenerProject>

@@ -1,30 +1,62 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <SearchIndexes Version="1.0">
     <Documents>
-        <Document ID="18">
-            <Title>Images</Title>
+        <Document ID="3">
+            <Title>Affected Parties</Title>
+            <Text>Affected parties
+
+[List business processes or systems which will be impacted by this project and describe how they will be affected.]
+
+</Text>
+        </Document>
+        <Document ID="4">
+            <Title>Background</Title>
+            <Text>Project background and description
+
+This document outlines a continuous delivery action plan for ultimate adoption within Betfair Australia. For a phase 1 focus will be give to the Sportsbook/Wagerplayer product given that it is a  
+</Text>
+        </Document>
+        <Document ID="5">
+            <Title>Scope</Title>
+            <Synopsis>Defines the boundaries of a project. Think of the scope as an imaginary box that will enclose all the project elements/activities. It not only defines what you are doing (what goes into the box), but it sets limits for what will not be done as part of the project (what doesn’t fit in the box).  Scope answers questions including what will be done, what won’t be done, and what the result will look like.]</Synopsis>
+            <Text>Project scope
+
+Project scope defines the boundaries of a project. Think of the scope as an imaginary box that will enclose all the project elements/activities. It not only defines what you are doing (what goes into the box), but it sets limits for what will not be done as part of the project (what doesn’t fit in the box).  Scope answers questions including what will be done, what won’t be done, and what the result will look like.]
+
+</Text>
+        </Document>
+        <Document ID="6">
+            <Title>High-level requirements</Title>
+            <Text>High-level requirements
+</Text>
+        </Document>
+        <Document ID="7">
+            <Title>Deliverables</Title>
+            <Text>Deliverables
+
+[List agencies, stakeholders or divisions which will be impacted by this project and describe how they will be affected by the project.]
+
+
+</Text>
+        </Document>
+        <Document ID="8">
+            <Title>Affected business processes and systems</Title>
+            <Text>Affected business processes and systems
+</Text>
+        </Document>
+        <Document ID="9">
+            <Title>Specific exclusions from Scope</Title>
+            <Text>Specific exclusions from scope</Text>
         </Document>
         <Document ID="10">
             <Title>Implementation Plan</Title>
-        </Document>
-        <Document ID="19">
-            <Title>ITinvolve_WHITEPAPER_DefineYourDevOpsActionPlan_Nov-2014</Title>
-            <Text>￼￼Computer Network SolutionsDefine Your DevOps Action Plan￼￼￼￼￼￼￼￼￼￼A WHITEPAPER FOR IT LEADERS￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼www.ITinvolve.com￼￼
-￼A WHITEPAPER FOR IT LEADERSDefine Your DevOps Action PlanDevOps is being defined, promoted, touted and discussed as the next game changer in IT. This whitepaper will provide guidance on how you can determine what DevOps will mean for your organization and help you build an action plan to get started.A common goal cited for DevOps is to enable faster release and deployment cycles by taking advantage of agile development methodologies; improved collaboration between business stakeholders, application development and operations teams; and automation tools that enable the continuous integration of developed code and continuous deployment into production of new capabilities. Beyond these elements, DevOps also requires a cultural acceptance of the need to focus on the flow of work across teams vs. optimizing individual teams and their specific units of work.There is no “one-size-fits-all” DevOps, no matter what pundits, consultants, and vendors might tell you. It should be grounded in the realities of your specific organization. Start by actually taking a step back. Ensure you are clearly taking into account your industry, your applications, your culture, and your people when developing your DevOps strategy; then apply DevOps principles against that foundation. Because every organization’s purpose will be different, your way of doing DevOps will not be the same as anyone else, even among your industry peers.Begin With Your ApplicationsDefining your DevOps action plan starts with an understanding of your industry and your applications. One suggested method is to analyze your business goals and application portfolio using the pace-layering method, which focuses on three categories of applications – systems of record, systems of differentiation, and systems of innovation.Figure 1Gartner’s Pace-Layered Application Strategy: Governance and Change Management”15 April 2011, Bill Swanton￼￼￼￼www.ITinvolve.com1￼
-￼A WHITEPAPER FOR IT LEADERSDefine Your DevOps Action PlanSystems of record are usually stable with infrequent updates. This is often due to regulatory requirements and internal policies, and they tend to have a high degree of consistency within an industry and even across industries. Systems of record are often good candidates for waterfall development methodologies and longer release timelines. Your general ledger or payroll systems are good examples of systems of record.Systems of differentiation are those applications that are likely common to your industry but where you have an opportunity to differentiate your company from the competition based on functionality and the pace with which you update them. For example, if you are a financial services firm that provides retirement investment programs, you might make changes to your customer portal and how clients select new investment options on a quarterly or monthly basis in order to enhance customer experience and remain competitive and differentiate. If you are an airline, this might be your crew scheduling application, which ensures you have the right flight crews available when needed and can improve your on-time departure percentages to differentiate from the competition. In healthcare, your systems of differentiation might be the applications that health professionals use to store patient information and correlate test results to aid in diagnosis and treatment. In manufacturing it may be your supply chain management, process control, or shop floor applications.Systems of innovation are those truly groundbreaking applications that help you create new markets and revenue streams. In financial services, that might be a new kind of application that gives day traders a market advantage. For an airline that might be a whole new way of providing inflight entertainment, such as when Wifi and inflight entertainment systems first became available to passengers. In healthcare, it might be a new customer portal that promotes wellness services and reduces office co-pays by uploading fitness tracker data. For a retailer, it might be applications that support a new type of customer loyalty program, such as when Amazon introduced their Amazon Prime service a few years ago.Both systems of differentiation and systems of innovation are excellent candidates for agile development and DevOps principles. This is because they require high degrees of collaboration between business stakeholders, developers, and operations personnel to ensure the applications are in line with requirements, developed and tested quickly, and then made available in the market to drive competitive differentiation and innovation. They are excellent candidates for the continuous delivery concept in DevOps where small releases are deployed quickly (and can be rolled back just as quickly if there are issues). In this manner, a large number of small deployments moves the competitive needle faster and provides greater value to customers over traditional waterfall development and disconnected development and operations practices.￼￼￼www.ITinvolve.com 2￼￼
-￼Foster a DevOps CultureToday, we find more and more businesses putting pressure on IT to move faster, and, if the IT department struggles to keep up, they are often willing to “go around them” and invest in a cloud or other third-party solution on their own to get what they want, when they want it (aka “shadow IT”).What the business often lacks, however, is a full understanding of the many downstream implications that come with speeding the roll out of new services such as security assessments, integrations to legacy systems, the ongoing cost to administer the solution and take on support for it, etc. It’s true that IT Operations teams want to control the reliability and stability of software deployments and that can often slow things down, but they do this because that’s what they are paid to do: to deliver stable, reliable, and high-performing services.This conflict between the business’ desire for speed and Operation’s charter for security, reliability, and performance, has been brewing for years and this section will discuss a few tips on how you can foster a more engaged and aligned culture as you define your DevOps action plan.￼TIP #1: Recognize the cultural challenges between the business, Dev and OpsBecause Development sits closer to the business in the IT value chain, there’s usually less conflict between the business’ desire to move fast and Development. That isn’t to say Development managers aren’t sometimes frustrated by how fast the business wants things given the resources available to them, but they usually are motivated and compensated to move in sync with how fast the business wants to move.Take a step back and benchmark your current culture for both Dev and Ops, because only then will you be able to understand how DevOps principles may impact those cultures. For Dev, ask yourself, in each line of business “Are we still doing waterfall software development with one release every year or eighteen months, or have we adopted agile methodologies that enable us to deliver multiple releases throughout the year?”￼￼www.ITinvolve.com 3￼￼￼￼￼
-￼A WHITEPAPER FOR IT LEADERSDefine Your DevOps Action PlanBased on your answers, then ask, “Is that in line with what the business wants today? Is that in line with what we think makes the most sense or are there opportunities we could bring to the business if we adopted agile more broadly?” Finally, “what would be the value to the business and cultural impact of adopting DevOps principles for continuous integration of new software development?”Next, ask yourself, “How focused is our Ops team on stability, reliability and clamping down on change vs. accepting (and even desiring) change? And how does this vary by line of business or application area?” If you have a risk-averse Ops culture that’s supporting a fragile infrastructure or many legacy technologies, then you may need to tackle some of those challenges first in order to help your DevOps culture evolve. You should also look at your Ops culture through a compliance lens. Ask yourself, “Are we in a heavily-regulated industry that has created its own cultural challenges in terms of change approvals and auditing that we need to take into account?” Finally, what would be the value to the business and the cultural impact of adopting DevOps principles for continuous delivery of new releases?”One of the hallmarks of DevOps is the ability to develop smaller pieces of incremental functionality, deploy them faster (perhaps even a few or many times a day), and quickly roll things back if there’s an issue. This is a big leap for many IT cultures on both the Dev and Ops side, so understanding where your culture is today is a critical first step.TIP #2: Think about how you view workDo you view work as tasks done by individual teams or in an end-to-end fashion (e.g. from raw materials to finished goods and customer delivery)? DevOps transformation requires focusing on work in an end-to-end manner. Your goal should be to identify where your IT organization’s bottlenecks are, with the intent of reducing pressure at those bottlenecks to increase end-to-end flow and, therefore, output that benefits the business.IT Operations groups often have a few key individuals that understand their company’s IT environment better than everyone else and are consumed with solving high-profile outages and deploying new application releases, the result is that these team members are constantly putting out fires and unable to get new software released that’s desperately needed by the business. These valued “heroes” can often be bottleneck to your DevOps evolution.Ask yourself, “Is my organization optimized around end-to-end flow or are we optimizing just at the individual workstations?” If it’s the latter, then you are probably stacking up work somewhere at one or more bottlenecks and should address those first. For example, a development project isn’t truly done until the code is tested and deployed. So incentivizing developers to finish code without knowing when and how it will get deployed is just going to create more work in process stacking up in your IT factory. It’s just like on an automotive line where you might see cars with shiny paint, brand new tires and cutting edge technical design, but if the cars have no seats they simply won’t be shippable.￼￼￼￼www.ITinvolve.com 4￼￼
-￼TIP #3: Incentivize your peopleDon’t assume people will change for the “greater good” that DevOps represents – proactively incentivize themto do so.If you want to change your culture and create one that’s more agile – if you want to optimize for flow versus workstations then you should incentivize to initiate the cultural change you seek. Old habits are hard to break even when we want to do things differently. For executives there’s the common tendency to appeal to a higher business purpose and assume the folks contributing on the front lines share the same passion for the company’s success. Often team members intellectually understand these goals, but executives should seek to make the change relevant to how it will improve their jobs as developers, QA team members, sys admins, and architects not just how it impacts C-level objectives.For example, Ops folks usually take particular pride in their indispensability, but to be indispensable they have to compromise family time, working late and on weekends to push out a big high-risk deployment. They may seek the attention and recognition for such ‘extra effort’, but at the same time they are putting more pressure on themselves and more risk on the business.As mentioned previously, the move toward a more agile IT with DevOps means deploying with far greater frequency, and that can actually help you operate with less stress and risk. Errors and fixes are likely smaller in effort, and you will be able to roll back hick-ups much faster. Sure your folks may need to stay late occasionally, but they can do their work more often during typical working hours, reclaim their weekends and have significantly less stress and pressure than via traditional large-scale rollouts where expectations are high and so is the risk of failure, re-work, and long days. Plus, with DevOps you are actually delivering on business requirements faster – instead of deploying what was needed months ago.TIP #4: Make it personal—everyone is differentRealizing everyone is inherently different is critical to incentivizing and empowering your IT team to transform. In most IT organizations, the responsibility is on the first line manager to know their people, understand what makes them tick and channel the right talents and motivations. Some team members may see a move to DevOps as the ideal resume enhancement opportunity. Some may feel intimidation because they are innately risk averse. Still others may not be sure what to think especially if you have one team doing DevOps while they remain on a separate team doing things “the old way”. What’s important for managers is not to stop at how to make DevOps relevant for a role, but to consider the specific individual. Ask yourself, “How will each of my team members react to this cultural change, and how can I tap into their natural motivations to make them enablers of the change not resistors?”￼￼￼￼www.ITinvolve.com 5￼￼
-￼￼A WHITEPAPER FOR IT LEADERSDefine Your DevOps Action Plan￼From what I’ve seen, there also is a generational aspect to DevOps cultural transformation. Younger employees who don’t know a world without mobile phones and grew up on social media are likely more comfortable with agile, small release deployments. Those with more experience are also more likely to think about the reasons why DevOps ‘can’t work’ and it will be key for first-line managers to engage them, listen to their concerns, and work to address them in a way that benefits the organization and realizes the wisdom of their experience.The bottom line here is that if you make it personal you will build trust and that will help you drive transformation in your organization faster. Perhaps even consider establishing a ‘Take a Developer or Ops Team Member to Lunch Day’. By working to understand each other’s worlds, challenges, pressures and goals you can unleash a swifter cultural change within your organization.Tools are Important TooIn IT, we’re inundated with tools. Developers have their favorite tools and sys admins do too, so does the project office, the service support group, and the QA team. There are IT tools purchased by organizations years ago that are still being used and others that aren’t, tools organizations have recently started using, and others being considered at any given point in time. There are also general-purpose tools the company wants employees to use for things like document sharing, instant messaging, and so on. It’s gotten to the point where a lot of IT organizations say, “We have two of everything like Noah’s ark”, yet they still want more tools.￼￼￼￼Part of the reason is that IT practitioners like gadgets and tools. We like the fact that they help us do things and amplify our own abilities, but we also know they can fragment information and can blindside us when someone uses a tool to do something that others weren’t aware of.￼www.ITinvolve.com 6￼￼
-￼￼Do we really need more tools to do DevOps?DevOps has a close association with the Agile Software Development movement, and one of the core tenets of the Agile Manifesto is to value “Individuals and Interactions over processes and tools”. Nevertheless, it’s hard to find a DevOps talk or article that doesn’t discuss the need for tools like git, docker, jenkins, puppet, chef, and so on. The reason for this is straight-forward: continuous integration and continuous delivery are best done through automation so we can follow a repeatable method and roll things back quickly if there are issues.At a more basic level, however, we need to acknowledge that there are really two types of tools:1) Tools that help us amplify our abilities as individuals (e.g. you can drive a nail into a board with a hammer much more effectively than with your hand or a rock because of the strength of the hammer’s material and the principle of leverage)2) Tools that help us coordinate work across many humans, thereby, amplifying our individual abilities (e.g. You can build a house much faster and with better quality by leveraging different experts’ skills and using a shared set of blueprints for building construction, plumbing, electrical, heating/cooling, and so on)The same distinction holds true for software development, deployment, and operations. One individual can theoretically gather requirements, build the software, test the software, deploy the software, and support the software while simultaneously project manage their personal time. Most computer science students have done this at one time or another, but when we are talking about enterprise applications that support core business functions it clearly doesn’t make sense because of the amount of effort required at each step and the specialized skills necessary for a high level of competency in each area.What this means is that we absolutely need tools that amplify our abilities, or that of our individual teams, i.e. the hammers; but we also need to invest in tools that help us coordinate work across teams, i.e. the shared sets of blueprints.Tools That Amplify Individual and Team AbilitiesA lot of the tools attention in the DevOps community has been focused on: source code management systems like git or bitbucket; requirements planning tools like jira or rally; build tools like jenkins; automation tools like puppet, chef, and ansible; and project management tools like MS Project. These tools help us amplify work in each of these respective areas just like hammers, saws, drills, and screwdrivers perform specific functions when building a house and often follow a natural sequence (first you hammer boards in place to create a wall, then hammer on the sheet rock, then saw or drill holes in the sheetrock, screw in electrical outlets and fixtures, and so on.)Just like building a house has a natural sequence, so does the sequence of tools from code to deployment and it’s often referred to as the DevOps “tool chain”. This whitepaper doesn’t cover each area of the typical DevOps tool chain (bug tracking, automated testing, and other categories are common too), the point is you need to take￼￼￼￼www.ITinvolve.com 7￼￼
-￼A WHITEPAPER FOR IT LEADERSDefine Your DevOps Action Plantime to define what the DevOps tool chain should be for your organization and to do so intentionally, taking into account the tool investments your organization already has, the needs and skillsets of your organization, and your own practical budget realities.Do you have experience in using and self-supporting open source tools or do you have a preference for commercially provided tools? Are you comfortable having multiple requirements tools in different teams or business units, or do you want a single standard? Only you can answer these questions for your organization. There is no prescriptive formula for DevOps tools, although I’ve mentioned a number of commonly used ones.Tools that Amplify Work Across TeamsThe second area you should focus on are tools to help coordinate work and amplify abilities across teams, i.e. bridging the inherent gaps in the DevOps tool chain, a subject that has received less attention in the DevOps community to-date. This makes sense because it’s human nature to think first about our own function and team.However, this silo thinking is one of the core problems DevOps was developed to address; the long-time focus on tools for specific IT “work stations” has actually entrenched the cultural silos of development, QA, operations, and project office in IT. For example, most IT organizations have two totally separate systems for tracking issues – in operations, it’s the service desk application and for code issues in development it’s the bug tracking application – and there is little or no relationship between them. In fact, you are lucky if an incident in the service desk can be tied to a bug tracking number.If we are adopting DevOps in order to optimize the flow of new software releases to support business agility, then we need to look at how we will coordinate work and avoid information distortion and loss when different teams are using different, disconnected tools. In addition to your tool strategy for optimizing individual DevOps workstations, therefore, you also need to have a strategy for the tools that are going to help you effectively manage flow across those workstations.Most DevOps transformation efforts start small with a core team of perhaps a dozen or so members, and they’re often located in one physical location. In this case, you might be able to make do with regular face-to-face meetings and general-purpose communication tools like email, instant messaging, and a SharePoint site or Wiki with MS Office documents. The scope of your cross-team collaboration tools aligns with the scope of your DevOps effort and you might be able to rely on people interactions to unify the tool chain.But as you scale your DevOps efforts to larger, distributed teams across time zones and multiple business units and applications, your cross-team tools approach should scale as well. The point-to-point nature of instant messaging, ignored reply-all emails, and SharePoint ‘document dumps’ aren’t effective in coordinating the efforts of dozens or hundreds of developers, testers, admins, and project managers. Information gets lost, information gets overlooked, and the gaps in your tool chain expand. A feature misses a commit and doesn’t get into the build and isn’t deployed. An operational requirement is missed so the test environment isn’t configured properly and the release gets pushed. Three weeks are spent solving a performance issue through code when it could have￼￼￼￼www.ITinvolve.com8￼￼
-￼been addressed faster via hardware. A legacy application dependency in production is overlooked and the new mobile app doesn’t work in production as it did in test.There is an emerging class of purpose-built IT collaboration tools, such as ITinvolve, that enable the creation of cross-team workspaces where information is proactively shared as IT teams and tools get work done. This helps large, distributed cross-functional teams collaborate more effectively with each other in-context to raise questions, provide answers, and incorporate what’s happening up and down the DevOps tool chain in their individual work.For example, the developer will have better visibility into when the next build is going to occur and can ensure the feature is committed in time or can reach out to the build engineer in the workspace to request a delay in order to ensure the feature makes it in. The operations engineer can have earlier and better visibility into operational requirements so he can ensure the test environment is configured properly and avoid unnecessary delays. The legacy application dependency in production can be reproduced in test to ensure the application works properly once moved to production. And so on. By eliminating the handoff gaps and information loss across the DevOps tool chain, you can reduce the risk of communication issues, solve problems more holistically rather than individually, and better achieve the goal of improving business agility.Defining Your Action PlanIn the first section, this whitepaper focused on the critical step of thinking about DevOps in the context of your organization’s applications. In the second section, four tips were provided to help foster a DevOps culture in your organization. In part three, the role of tools was discussed and how they can amplify (or constrain) individual and team abilities as well as work across teams.In this fourth section, the previous topics of (A)pplications, (C)ulture, and (T)ools will be woven together to illustrate how to define your DevOps action plan. Given the breadth of these three areas, though, it’s easy to feel overwhelmed from the start.￼￼￼￼www.ITinvolve.com 9￼￼
-￼A WHITEPAPER FOR IT LEADERSDefine Your DevOps Action PlanHere’s a tip, whether you are a CEO, VP, or manager, smart leaders set a vision (often at least two or three years out) and then make small decisions every week with the goal of generally moving the organization or team in the direction of the vision over time.With this in mind, first set a vision for DevOps as it relates to your Applications, your Culture, and your Tools. To set a DevOps vision for your applications, place each of your current applications into one of the three pace layers discussed in the first section – system of record, system of differentiation, or system of innovation. Then, do the same thing for any applications you are planning to add to your portfolio. With that context, specific to your organization, formulate a strategic vision for how DevOps will apply to your systems in each layer. Will you seek to have DevOps principles for continuous integration and continuous delivery in place for all of your systems of innovation, and if so, by when? How about for systems of differentiation? Will DevOps be the norm for each of those applications or just some, and by when? Then ask yourself the same questions about your systems of record.Next, turn to your cultural vision. In the second section, the importance of baselining the degree of collaboration you have between the business, dev, and ops as well as how you view work (in workstations or in end-to-end flow terms) were discussed. How you incentivize people to modify their behavior both with respect to their roles and as individuals were also key points. With this as context, define your DevOps cultural vision. What does collaboration between the business and development look like in the future? What does collaboration look like between development and operations? How about between dev, QA, and ops? And don’t forget security too.How will you recognize when your culture is optimized for flow? For example you might document a set of indicators to measure at regular intervals. Here are three good ones. How much work-in-process (WIP) do we have for Application X today vs. how much was there a quarter ago? What is the average time it takes from the definition of a requirement to its deployment in production today vs. a quarter ago? How often did we make updates to Application X in production this quarter vs. last quarter?Now, consider your tools vision. Take a baseline of the tools you are using today for each step of the typical DevOps tool chain from requirements management to source code control and bug tracking through to build management, automated testing, configuration management and deployment. And don’t forget project management tools too. What is the state of your tool investment in each of these areas? Do you have gaps? Do you have multiple tools in the same area, and, if so, is that okay or do you want to standardize on one? Do your tools vary based on the applications they are used with (see pace-layering discussion above)?Then take an inventory of your collaboration tools across dev and ops. Are you still mostly using email and sharepoint sites? What role does instant messaging play in your dev and ops teams today? What about conference calls and meetings? Once you’ve baselined where you are today, set a vision for where you want to be in the future. Are you looking to reduce the need for conference calls and meetings, and if so by how much (time or average number of participants)? What issues are you running into around email and IM communications that need to be addressed and also for SharePoint? Have you looked at the emerging class of DevOps collaboration tools and concepts such as ITinvolve and ChatOps? What role can they play in streamlining communications,￼￼www.ITinvolve.com10￼￼
-￼￼keeping people informed, and presenting information to staff so they don’t have to go hunting around for it in dozens of systems or call more meetings?With this as background, define your DevOps tools vision by setting priorities for filling identified gaps and rationalizing existing investments, then set a general target time frame for each area.Now that you’ve set a vision in each area – (A)pplications, (C)ulture, and (T)ools, it’s time to develop your short term action plan. First pick one or two applications to begin your DevOps journey. Ideally, they should be applications visible to the business and where you can lay claim to the impact DevOps can have on business goals like time-to-market and responsiveness to customer needs.Once those applications are identified, take an inventory of all the people across your organization (including the business) and those responsible for the development and delivery of the selected applications. Develop a specific plan for how you will educate those individuals on DevOps principles (e.g. attend DevOpsDays, read The Phoenix Project, read a sets of articles and watch a set of seminar or demo recordings), and also develop a specific plan for how you will incentivize behavior changes for their roles as well as what is expected of first line managers to take individual personalities, skills, and experiences into account.It’s also important not to ignore the people who aren’t participating in this first DevOps effort. Educate them as well, for example through an all-hands meeting and an email from leadership. Explain why the company is investing in DevOps transformation, why these applications have been chosen, and your long-term vision across Applications, Culture, and Tools to realize the transformation. Help them understand where the organization is going and why, and how it may impact them in the future. Avoid the perception that “the best people were picked for this DevOps effort and you are not among them” or that this group of people is being given license to do things that others can’t (e.g. make changes outside of the standard change management process) – otherwise, you risk reducing morale, good people leaving, and even sabotage of your DevOps efforts.Once you’ve completed the above, map the relevant tools you have in place today for managing the development and delivery of these applications as well as the tools on your vision roadmap defined above that will be added or rationalized in the next six months.By following the above recommendations, you will now have a clear action plan for the near term and a long- term vision you can use to guide daily decisions to move you closer to your vision. Lastly, don’t be rigid about your short-term plan or long-term vision, recognize that everyone is learning, including you, and that one of the key principles behind DevOps is the feedback loop!We hope this paper is useful to you on your DevOps journey.￼￼￼www.ITinvolve.com 11￼￼
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼MAIN 877-741-8944 FAX 832-201-8104 WEB www.itinvolve.com EMAIL info@itinvolve.com11200 Richmond Avenue, Suite 350 Houston, Texas 77082￼￼￼￼A WHITEPAPER FOR IT LEADERS￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼</Text>
+            <Text>Implementation plan
+</Text>
         </Document>
         <Document ID="11">
             <Title>High-level timeline and schedule</Title>
+            <Text>High level time line and schedule
+</Text>
         </Document>
         <Document ID="12">
             <Title>Dicussion with Rob Hare</Title>
@@ -65,101 +97,6 @@ This is very existing and we have a real opportunity here to make a difference! 
 Keep well and chat soon.
 </Text>
         </Document>
-        <Document ID="20">
-            <Title>Microservices, Docker and the Death of the Workflow Tool</Title>
-            <Text>
-
-	
-XebiaLabs Blog
-Thoughts on Continuous Delivery, DevOps, Release Management, and Testing
-       	 
-       	 
-Microservices, Docker and the Death of the Workflow Tool
-Andrew Phillips | November 21, 2014	| 0 Comments
-
-The days of The Big App are over - at least, for the forseeable future. Sure, there will still be tons of large, monolithic beasts around, just as we still tend to our mainframe and keep that COBOL application running, the one with the critical business logic that nobody understands.
-
-What we are moving towards, certainly for new systems and also as a migration path for our Big Apps, is a landscape of many lightweight, interdependent components - some in your clouds and datacenters, but more and more increasingly "out there", on mobile devices, in your coffee machine etc.
-
-Whether we want to call this SOA, microservices or Internet of Things, doesn't matter from this perspective. Neither is it all that relevant whether the "server-side" components run in Docker, Mesos or some other container technology, or are simply small Jetty-based Java programs, or apps running in a public, private or hybrid PaaS or another yet-to-be-invented runtime. What is essential is that there a) will be many, many components and that b) individually, they will be pretty simple.
-
-Simple, especially, to build and deploy. Getting one of these lightweight components running will be pretty trivial: in most cases, a one-line command or API call. This doesn't mean that application deployment complexity goes away, unfortunately - but the nature of the complexity shifts. The challenge is no longer "how do I describe and execute the 10,425 steps that are required to update Big App", it's: "How do I easily deploy 47 components into a landscape of 763 microservices coherently? How do I know which components are dependent on which others? Which running services will be impacted by the new components? Have the new versions of the 47 components actually been tested together? Have they been tested against the versions that are currently in production?" In other words, the complexity moves from the deployment of individual applications to visualizing, predicting and executing changes to a complex graph of interdependent applications1 (In fact, we are simply moving all the challenges we faced with build-time dependency management towards runtime, but that's a subject for a different blog post.)
-
-What does this mean? No more and no less than the end of the workflow approach to application deployment. The idea of giving you an enormous canvas because you need tremendous flexibility to put together a process consisting of endless steps in all kinds of combinations and permutations is based entirely on the old reality of The Complex Big App Deployment. In the application landscape we all are moving towards, workflow canvases for the manual design of complicated deployment processes will be about as relevant as a floppy disk drive. Picking a workflow-based app deployment tool today is a choice for instant legacy.
-
-Well, at least you'll be able to automate the deployment of that COBOL app!
-
-Footnotes
-
-Stay tuned for a bunch of related features in upcoming versions of XL Release and XL Deploy!
-Tags: container, Deployment, docker, mesos, microservices, workflow, XL Deploy, XL Release
-Category: XebiaLabs
-
-Related Posts:
-“Will the future be Dockerized?” A discussion on Docker, containers and the future of application delivery
-Continuous Delivery in the Real World: How to move from “thinking in Releases” to CD?
-Continuous Delivery in the Real World: Moving to CD with a complex portfolio and compliance requirements
-How we made our Community Plug-ins Easy as Pizza
-
-About the Author (Author Profile)
-VP Product Management
-
-« How Continuous Delivery is like Pizza An introduction to XL Deploy and Siebel »
-Follow XebiaLabs
-
-Products
-
-XL Release
-XL Deploy
-XL Test
-Plugins
-Integrations
-Solutions
-
-Continuous Delivery
-DevOps
-Deployment Automation
-Release Management
-Environment Provisioning
-Resources
-
-Whitepapers
-Case Studies
-Analyst Reports
-Product Literature
-Video
-Blog
-Community
-
-Events
-Live Q&amp;A
-Online Workshops
-Webinars
-Documentation
-Support
-Company
-
-About Us
-Careers
-Team
-Press
-Partners
-Customers
-Connect with Us
-
- Blog
- Twitter
- LinkedIn
- YouTube
- Google +
- Email
-
-XebiaLabs is the leader in scalable and reliable software delivery automation for the enterprise.
-
-Get Started with XebiaLabs!
-© Copyright 2014. XebiaLabs, Inc. All rights reserved • Privacy Policy • Contact
-</Text>
-        </Document>
         <Document ID="13">
             <Title>Ramesh comms with Steve - CD from IS perspective</Title>
             <Text>Steve,
@@ -182,279 +119,149 @@ Thanks
 Ramesh
 </Text>
         </Document>
-        <Document ID="3">
-            <Title>Affected Parties</Title>
-        </Document>
-        <Document ID="21">
-            <Title>Continuous Delivery in the Real World: How to move from "thinking in Releases" to CD?</Title>
-            <Text>
-
-	
-XebiaLabs Blog
-Thoughts on Continuous Delivery, DevOps, Release Management, and Testing
-       	 
-       	 
-Continuous Delivery in the Real World: How to move from “thinking in Releases” to CD?
-Andrew Phillips | August 27, 2014	| 0 Comments
-A comment we frequently hear from users is that one of the key things they value about working with XebiaLabs is that we don't just provide useful tools, we actually help them get to grips with the challenges of trying to introduce Continuous Delivery in a real world scenario.
-
-Building a pipeline doesn't sound all that difficult when you're talking about one application with one pipeline in a greenfield setup. But that's not at all the situation most enterprises find themselves in: how do you move towards CD if your starting point is a diverse set of projects with pretty different release processes where you do not have one app making its way to Production, but tens or hundreds of applications, components or services with complex interdependencies?
-
-We regularly have interesting and insightful discussions with users on these kind of topics, and I would like to share some of the points raised, as they apply to many of the organizations we speak to.
-
-"Continuous Delivery requires a substantial investment in creating and maintaining metadata about process and artifacts (deploy scripts, config files, etc.).  It also requires a high level of discipline about processes. ARA, as with much of the rest of the CD approach, is oriented toward modern technologies and cloud infrastructure. That does not describe all of our applications, even in target-state.  This would have us applying ARA techniques to older technologies and dev processes.
-
-This situation occurs frequently for us:
-
-Two changes must be made to an application.
-Deployers prefer to implement the changes separately to reduce risk in their processes (aligned to CD principles)
-App owners (both business and IT) prefer to implement the changes together to reduce testing effort and expense."
-Our experience is also that enterprises will always have a mix of approaches to many process related to Devops and application delivery, both across teams or groups and over time within individual teams. Our aim is very clearly to support real-world application delivery scenarios, so it essential for us that all our tools – whether for deployment, release/pipeline orchestration or testing – support not just the "Latest and Greatest" new technologies and trends, but also the practices that are in place today within organizations.
-
-What we regard as critical is that our architecture allows you to support this spectrum effectively and investigate new approaches and technologies easily. Our tools aim to help you transition to new delivery models where appropriate to your business context and adopt industry-standard practices without enforcing a "one size must fit all" approach.
-
-Applied to this particular example: our deployment tools should allow you to choose the unit of deployment that makes most sense, and even aggregate multiple deployments into one "batch" as the change set moves toward production. So a deployment package might include one or both changes and be transitioned all the way from Dev to Prod. Or we could start with two deployment packages, each containing one change, could be deployed to e.g. Dev and Test and then be combined into an aggregate containing both changes for deployments to QA and Production.
-
-Similarly, we could decide to trigger a release pipeline for each change, or set up a triggering strategy that waits for a certain time or until N changes have been accumulated before starting a pipeline. A hybrid "fan in" approach is common: the first section of the delivery pipeline runs per change to perform basic validation, and the section of the pipeline that leads to production runs only when sufficient changes have been accumulated, similar to the common "release train" concept.
-
-This approach also fits well with SOA/microservices release landscapes, where each component service may have its own "first section" of the overall pipeline that verifies that service in isolation, before a second section picks up a batch of services and performs dependency validation and integration testing before going to Prod.
-
-"I think a lot of the problem is we are still thinking of 'Releases'.  The principles behind Continuous Delivery is that you are continuously making small changes to the system that have automated tests to validate code and system (as well as other automated controls to insure quality) that are then continuously promoted and released. This of course is a huge culture change to IT and to the Business. A 'Release' strategy is not Continuous Delivery and will always have these balancing issues."
-
-A very astute observation that we are unfortunately not seeing made by many people at this point: even though a Continuous Delivery pipeline may appear to be "just an accelerated release process", the goal state in terms of how IT and the business interact with the customer can be quite different.
-
-We certainly believe that working towards hypothesis-driven development, incremental change and continuous customer engagement cycles are worthwhile, but these can indeed involve a significant culture change that is challenging to bring about irrespective of the state of the underlying (delivery) tooling. We know there is good evidence that this approach works and that the challenges involved in effecting the required culture change are worthwhile, but that does not in any way make the transition easier.
-
-What we as XebiaLabs try to contribute is not just partnership in building out the vision of the desired goal state (which may go all the way to a full CD philosophy or stop some way short of that!) and a incremental approach to getting there, but also tooling that guides improvement and makes benefits clearly apparent.
-
-In our view, it’s no use asking real-world organization to "boil the Continuous Delivery ocean" before our tools can deliver any benefit: our central aim is to allow you to get started today with your current process and improve that process guided by metrics and effective visualization of benefits achieved.
-
-Speaking concretely about releases, this means allowing you to start with your current release process, with a mix of automated and manual tasks, variation from one release to another and changing scope and frequency. Based on automated value stream mapping to pinpoint "troublespots" in your process, you can incrementally replace manual tasks by automation and move toward a more regular and standardized pipeline.
-
-Reporting and analytics help document at each stage in the transition how investment in automation and process improvement has resulted in increased throughput, lower failure rates or whatever other metrics you are aiming for.
-
-The bottom line for us is: whilst we firmly believe that the philosophy of Continuous Delivery can provide tremendous value to organizations across all industries, every business should ultimately make their own decision about how much of this thinking they want to adopt based on their particular business need. Ultimately, Continuous Delivery is also a means to an end rather than an end in itself, and we want to ensure our tools allow you to go as far along this path as makes sense for you.
-
-Tags: Continuous Delivery, XL Deploy, XL Release
-Category: XebiaLabs
-
-Related Posts:
-Continuous Delivery in the Real World: Moving to CD with a complex portfolio and compliance requirements
-How we made our Community Plug-ins Easy as Pizza
-Microservices, Docker and the Death of the Workflow Tool
-Three Ways of Using XL Release &amp; Jenkins for Continuous Delivery (part 2)
-
-About the Author (Author Profile)
-VP Product Management
-
-« Running phases in parallel in XL Release Continuous Delivery in the Real World: Moving to CD with a complex portfolio and compliance requirements »
-Follow XebiaLabs
-
-Products
-
-XL Release
-XL Deploy
-XL Test
-Plugins
-Integrations
-Solutions
-
-Continuous Delivery
-DevOps
-Deployment Automation
-Release Management
-Environment Provisioning
-Resources
-
-Whitepapers
-Case Studies
-Analyst Reports
-Product Literature
-Video
-Blog
-Community
-
-Events
-Live Q&amp;A
-Online Workshops
-Webinars
-Documentation
-Support
-Company
-
-About Us
-Careers
-Team
-Press
-Partners
-Customers
-Connect with Us
-
- Blog
- Twitter
- LinkedIn
- YouTube
- Google +
- Email
-
-XebiaLabs is the leader in scalable and reliable software delivery automation for the enterprise.
-
-Get Started with XebiaLabs!
-© Copyright 2014. XebiaLabs, Inc. All rights reserved • Privacy Policy • Contact
-</Text>
-        </Document>
         <Document ID="14">
             <Title>02_CD_test_strategy_low-res</Title>
-        </Document>
-        <Document ID="4">
-            <Title>Background</Title>
-        </Document>
-        <Document ID="22">
-            <Title>Continuous Delivery in the Real World: Moving to CD with a complex portfolio and compliance requirements</Title>
-            <Text>
-
-	
-XebiaLabs Blog
-Thoughts on Continuous Delivery, DevOps, Release Management, and Testing
-       	 
-       	 
-Continuous Delivery in the Real World: Moving to CD with a complex portfolio and compliance requirements
-Andrew Phillips | September 4, 2014	| 0 Comments
-In a previous post, I talked about how helping users handle the challenges of adopting Continuous Delivery in the real world is one of our key goals at XebiaLabs. I shared excerpts from one particular thread and would like to continue in the same vein here. This discussion focuses specifically on the challenges of a landscape with complex dependencies, and of how to introduce CD across a portfolio of applications with very different levels of CD maturity.
-
-"As a starter, Jez Humble &amp; co have some good thoughts on release management.  Their context, though, is a single application, probably a small/simple one relative to our enterprise application complexity level.
-
-Our release and change management functions are designed to coordinate multiple concurrent changes in interdependent application suites. The application architectures span many languages and platforms, some CI/CD enabled, some not. For example, three major enterprise apps must deploy changes to Prod on a single weekend, in order to maintain interoperability. The changes have interdependencies, so individual app deployments in CD-style would break the overall system in Prod. How do we manage this situation with CD, short of refactoring the entire app portfolio?"
-
-It's not very helpful, indeed, that so much has been written about the single pipeline merrily pushing updates to production for an app with no dependencies whatsoever when that case so seldom matches reality. Complex dependencies between components or services are not just a challenge when dealing with "old-fashioned" applications, too. Ironically, "state-of-the-art" microservice architectures can increase the dependency management headache, certainly when the goal is to update them more and more frequently.
-
-At a conceptual level, our experience is that addressing this challenge means looking beyond individual pipelines and modelling the entire "pipeline dependency graph", ensuring the release process (as represented by a pipeline) for each component takes the appropriate dependencies into account. Especially if some kind of manual approval is required, it often makes sense to facilitate this by synchronizing the last stages of the pipelines for the individual components using a "fan-in" design or release trains.
-
-In terms of our tools, we already support dependencies between pipelines in XL Release, as well as manual steps for the validation activities we commonly see in current release processes as things get close to Production. Additionally, a focus for both XL Deploy and XL Release moving forward is more support for groups of (simpler) deployments and pipelines.
-
-Current architecture and delivery trends are shifting the challenge from complex single deployments and pipelines to flows of simpler, interdependent releases. We're looking to make sure that users at both ends of the spectrum, or (as is likely to be the case for most) somewhere in between, can derive maximum value from our tools.
-
-"Release and Change Management also help our application teams maintain compliance with various enterprise policies. Those compliance requirements still exist in a CD world for us. How does CD deal with that?"
-
-From my experience, that depends quite strongly on which definition of CD you subscribe to. If one views CD as "a single, fully-automated pipeline to Prod or nothing", handling the interaction with Change and Release Management (CM &amp; RM) is challenging. I try to look at Continuous Delivery more as a powerful means of making software more relevant and valuable for customers by enabling quicker and more focused release cycles.
-
-From that perspective, including steps in the pipeline that ensure compliance with CM &amp; RM requirements is not "incompatible with CD" in any way, even if those steps are manual. In our tools, we try to allow for steps such as the creation and verification of change tickets to be automated as much as possible, but that's simply an option that's available.
-
-Of course, meeting CM &amp; RM requirements does introduce some challenges from a CD perspective. For example, since, as you mention, Change reviews are often scoped to cover all pending changes to an environment, it is usually necessary to "batch" the changes. This can be done by having all pipeline wait on a shared gate or through a fan-in/release train layout where the individual component pipelines merge into one for the last mile to Production.
-
-But even if CM procedures can be integrated into your pipeline graph in this way, they can still represent a bottleneck, of course. As with any other manual step, Change reviews will likely limit the frequency at which your pipelines can run.
-
-The question here is whether that is really a problem. What counts as acceptable throughput depends on the scenario (a lot of our users would not want their XL Deploy and XL Release servers to be updated every 30min, for example), and increasing the frequency of releases is in any case only one of many possible goals for a Continuous Delivery initiative.
-
-I would say that trying to figure out a way in which the release process can be further accelerated while remaining in compliance with legal requirements and company policy - which is certainly possible, given the examples of highly-regulated financial organizations with fully advanced delivery pipelines such as LMAX - only makes sense if the frequency you can achieve with the current process isn't good enough.
-
-"Finally, we are looking at a few years of transition from where we are today to a continuous delivery approach for the majority of our apps. How do we manage the transition, when some apps are on CD and some are not?"
-
-Again, I think it depends a lot on what is considered being "on CD". My view is that, since every app has a release process of some kind, every app is "on CD" to some extent. What differs (widely) is the degree of automation and standardization of the release process/pipeline and, closely related to that, the frequency at which the process/pipeline is and can be run.
-
-Since, in a portfolio of interdependent apps as described above, pipelines will seldom be able to run in isolation, improvement will mean identifying the bottlenecks in the overall graph of dependent pipelines and iteratively addressing the most critical ones. Trying to implement CD by "going all-out" with one project at a time is not, in our experience, a highly efficient way of transitioning to CD in a landscape with many dependencies.
-
-In other words, the overall pipeline graph in any real-world situation will be a mix of individual pipeline at varying levels of automation and standardization - "CD-ness", if you like. In order to adopt the incremental approach above, your tooling obviously also needs to support such a "hybrid" landscape, allowing for small changes, such as automating a couple of very time-consuming steps, at a time.
-
-Unsurprisingly, a key goal for us for XL Release is to support precisely such a scenario and, if possible, to accelerate the transition process by highlighting bottlenecks and providing appropriate metrics to document the improvement not just of individual pipelines, but the overall release process.
-
-Tags: Continuous Delivery, XL Deploy, XL Release
-Category: XebiaLabs
-
-Related Posts:
-Continuous Delivery in the Real World: How to move from “thinking in Releases” to CD?
-How we made our Community Plug-ins Easy as Pizza
-Microservices, Docker and the Death of the Workflow Tool
-Three Ways of Using XL Release &amp; Jenkins for Continuous Delivery
-
-About the Author (Author Profile)
-VP Product Management
-
-« Continuous Delivery in the Real World: How to move from “thinking in Releases” to CD? How Deployment Automation Solves 3 Common Worst-Practice Errors »
-Follow XebiaLabs
-
-Products
-
-XL Release
-XL Deploy
-XL Test
-Plugins
-Integrations
-Solutions
-
-Continuous Delivery
-DevOps
-Deployment Automation
-Release Management
-Environment Provisioning
-Resources
-
-Whitepapers
-Case Studies
-Analyst Reports
-Product Literature
-Video
-Blog
-Community
-
-Events
-Live Q&amp;A
-Online Workshops
-Webinars
-Documentation
-Support
-Company
-
-About Us
-Careers
-Team
-Press
-Partners
-Customers
-Connect with Us
-
- Blog
- Twitter
- LinkedIn
- YouTube
- Google +
- Email
-
-XebiaLabs is the leader in scalable and reliable software delivery automation for the enterprise.
-
-Get Started with XebiaLabs!
-© Copyright 2014. XebiaLabs, Inc. All rights reserved • Privacy Policy • Contact
-</Text>
         </Document>
         <Document ID="15">
             <Title>03_CD_automated_acceptance_test_low-res</Title>
         </Document>
-        <Document ID="5">
-            <Title>Scope</Title>
-            <Synopsis>Defines the boundaries of a project. Think of the scope as an imaginary box that will enclose all the project elements/activities. It not only defines what you are doing (what goes into the box), but it sets limits for what will not be done as part of the project (what doesn’t fit in the box).  Scope answers questions including what will be done, what won’t be done, and what the result will look like.]</Synopsis>
-            <Text>Project scope
-
-Project scope defines the boundaries of a project. Think of the scope as an imaginary box that will enclose all the project elements/activities. It not only defines what you are doing (what goes into the box), but it sets limits for what will not be done as part of the project (what doesn’t fit in the box).  Scope answers questions including what will be done, what won’t be done, and what the result will look like.]
-
-</Text>
-        </Document>
-        <Document ID="6">
-            <Title>High-level requirements</Title>
-        </Document>
         <Document ID="16">
             <Title>04_CD_managing_data_low-res</Title>
-        </Document>
-        <Document ID="7">
-            <Title>Deliverables</Title>
-        </Document>
-        <Document ID="8">
-            <Title>Affected business processes and systems</Title>
         </Document>
         <Document ID="17">
             <Title>01_CD_the_idea_low-res</Title>
         </Document>
-        <Document ID="9">
-            <Title>Specific exclusions from Scope</Title>
+        <Document ID="18">
+            <Title>Images</Title>
+        </Document>
+        <Document ID="19">
+            <Title>ITinvolve_WHITEPAPER_DefineYourDevOpsActionPlan_Nov-2014</Title>
+            <Text>￼￼Computer Network Solutions
+Define Your DevOps Action Plan
+￼￼￼￼￼￼￼￼￼￼A WHITEPAPER FOR IT LEADERS
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼www.ITinvolve.com
+￼￼
+￼A WHITEPAPER FOR IT LEADERS
+Define Your DevOps Action Plan
+DevOps is being defined, promoted, touted and discussed as the next game changer in IT. This whitepaper will provide guidance on how you can determine what DevOps will mean for your organization and help you build an action plan to get started.
+A common goal cited for DevOps is to enable faster release and deployment cycles by taking advantage of agile development methodologies; improved collaboration between business stakeholders, application development and operations teams; and automation tools that enable the continuous integration of developed code and continuous deployment into production of new capabilities. Beyond these elements, DevOps also requires a cultural acceptance of the need to focus on the flow of work across teams vs. optimizing individual teams and their specific units of work.
+There is no “one-size-fits-all” DevOps, no matter what pundits, consultants, and vendors might tell you. It should be grounded in the realities of your specific organization. Start by actually taking a step back. Ensure you are clearly taking into account your industry, your applications, your culture, and your people when developing your DevOps strategy; then apply DevOps principles against that foundation. Because every organization’s purpose will be different, your way of doing DevOps will not be the same as anyone else, even among your industry peers.
+Begin With Your Applications
+Defining your DevOps action plan starts with an understanding of your industry and your applications. One suggested method is to analyze your business goals and application portfolio using the pace-layering method, which focuses on three categories of applications – systems of record, systems of differentiation, and systems of innovation.
+Figure 1
+Gartner’s Pace-Layered Application Strategy: Governance and Change Management”
+15 April 2011, Bill Swanton
+￼￼￼￼www.ITinvolve.com
+1
+￼
+￼A WHITEPAPER FOR IT LEADERS
+Define Your DevOps Action Plan
+Systems of record are usually stable with infrequent updates. This is often due to regulatory requirements and internal policies, and they tend to have a high degree of consistency within an industry and even across industries. Systems of record are often good candidates for waterfall development methodologies and longer release timelines. Your general ledger or payroll systems are good examples of systems of record.
+Systems of differentiation are those applications that are likely common to your industry but where you have an opportunity to differentiate your company from the competition based on functionality and the pace with which you update them. For example, if you are a financial services firm that provides retirement investment programs, you might make changes to your customer portal and how clients select new investment options on a quarterly or monthly basis in order to enhance customer experience and remain competitive and differentiate. If you are an airline, this might be your crew scheduling application, which ensures you have the right flight crews available when needed and can improve your on-time departure percentages to differentiate from the competition. In healthcare, your systems of differentiation might be the applications that health professionals use to store patient information and correlate test results to aid in diagnosis and treatment. In manufacturing it may be your supply chain management, process control, or shop floor applications.
+Systems of innovation are those truly groundbreaking applications that help you create new markets and revenue streams. In financial services, that might be a new kind of application that gives day traders a market advantage. For an airline that might be a whole new way of providing inflight entertainment, such as when Wifi and inflight entertainment systems first became available to passengers. In healthcare, it might be a new customer portal that promotes wellness services and reduces office co-pays by uploading fitness tracker data. For a retailer, it might be applications that support a new type of customer loyalty program, such as when Amazon introduced their Amazon Prime service a few years ago.
+Both systems of differentiation and systems of innovation are excellent candidates for agile development and DevOps principles. This is because they require high degrees of collaboration between business stakeholders, developers, and operations personnel to ensure the applications are in line with requirements, developed and tested quickly, and then made available in the market to drive competitive differentiation and innovation. They are excellent candidates for the continuous delivery concept in DevOps where small releases are deployed quickly (and can be rolled back just as quickly if there are issues). In this manner, a large number of small deployments moves the competitive needle faster and provides greater value to customers over traditional waterfall development and disconnected development and operations practices.
+￼￼￼www.ITinvolve.com 2
+￼￼
+￼Foster a DevOps Culture
+Today, we find more and more businesses putting pressure on IT to move faster, and, if the IT department struggles to keep up, they are often willing to “go around them” and invest in a cloud or other third-party solution on their own to get what they want, when they want it (aka “shadow IT”).
+What the business often lacks, however, is a full understanding of the many downstream implications that come with speeding the roll out of new services such as security assessments, integrations to legacy systems, the ongoing cost to administer the solution and take on support for it, etc. It’s true that IT Operations teams want to control the reliability and stability of software deployments and that can often slow things down, but they do this because that’s what they are paid to do: to deliver stable, reliable, and high-performing services.
+This conflict between the business’ desire for speed and Operation’s charter for security, reliability, and performance, has been brewing for years and this section will discuss a few tips on how you can foster a more engaged and aligned culture as you define your DevOps action plan.
+￼TIP #1: Recognize the cultural challenges between the business, Dev and Ops
+Because Development sits closer to the business in the IT value chain, there’s usually less conflict between the business’ desire to move fast and Development. That isn’t to say Development managers aren’t sometimes frustrated by how fast the business wants things given the resources available to them, but they usually are motivated and compensated to move in sync with how fast the business wants to move.
+Take a step back and benchmark your current culture for both Dev and Ops, because only then will you be able to understand how DevOps principles may impact those cultures. For Dev, ask yourself, in each line of business “Are we still doing waterfall software development with one release every year or eighteen months, or have we adopted agile methodologies that enable us to deliver multiple releases throughout the year?”
+￼￼www.ITinvolve.com 3
+￼￼￼￼￼
+￼A WHITEPAPER FOR IT LEADERS
+Define Your DevOps Action Plan
+Based on your answers, then ask, “Is that in line with what the business wants today? Is that in line with what we think makes the most sense or are there opportunities we could bring to the business if we adopted agile more broadly?” Finally, “what would be the value to the business and cultural impact of adopting DevOps principles for continuous integration of new software development?”
+Next, ask yourself, “How focused is our Ops team on stability, reliability and clamping down on change vs. accepting (and even desiring) change? And how does this vary by line of business or application area?” If you have a risk-averse Ops culture that’s supporting a fragile infrastructure or many legacy technologies, then you may need to tackle some of those challenges first in order to help your DevOps culture evolve. You should also look at your Ops culture through a compliance lens. Ask yourself, “Are we in a heavily-regulated industry that has created its own cultural challenges in terms of change approvals and auditing that we need to take into account?” Finally, what would be the value to the business and the cultural impact of adopting DevOps principles for continuous delivery of new releases?”
+One of the hallmarks of DevOps is the ability to develop smaller pieces of incremental functionality, deploy them faster (perhaps even a few or many times a day), and quickly roll things back if there’s an issue. This is a big leap for many IT cultures on both the Dev and Ops side, so understanding where your culture is today is a critical first step.
+TIP #2: Think about how you view work
+Do you view work as tasks done by individual teams or in an end-to-end fashion (e.g. from raw materials to finished goods and customer delivery)? DevOps transformation requires focusing on work in an end-to-end manner. Your goal should be to identify where your IT organization’s bottlenecks are, with the intent of reducing pressure at those bottlenecks to increase end-to-end flow and, therefore, output that benefits the business.
+IT Operations groups often have a few key individuals that understand their company’s IT environment better than everyone else and are consumed with solving high-profile outages and deploying new application releases, the result is that these team members are constantly putting out fires and unable to get new software released that’s desperately needed by the business. These valued “heroes” can often be bottleneck to your DevOps evolution.
+Ask yourself, “Is my organization optimized around end-to-end flow or are we optimizing just at the individual workstations?” If it’s the latter, then you are probably stacking up work somewhere at one or more bottlenecks and should address those first. For example, a development project isn’t truly done until the code is tested and deployed. So incentivizing developers to finish code without knowing when and how it will get deployed is just going to create more work in process stacking up in your IT factory. It’s just like on an automotive line where you might see cars with shiny paint, brand new tires and cutting edge technical design, but if the cars have no seats they simply won’t be shippable.
+￼￼￼￼www.ITinvolve.com 4
+￼￼
+￼TIP #3: Incentivize your people
+Don’t assume people will change for the “greater good” that DevOps represents – proactively incentivize them
+to do so.
+If you want to change your culture and create one that’s more agile – if you want to optimize for flow versus workstations then you should incentivize to initiate the cultural change you seek. Old habits are hard to break even when we want to do things differently. For executives there’s the common tendency to appeal to a higher business purpose and assume the folks contributing on the front lines share the same passion for the company’s success. Often team members intellectually understand these goals, but executives should seek to make the change relevant to how it will improve their jobs as developers, QA team members, sys admins, and architects not just how it impacts C-level objectives.
+For example, Ops folks usually take particular pride in their indispensability, but to be indispensable they have to compromise family time, working late and on weekends to push out a big high-risk deployment. They may seek the attention and recognition for such ‘extra effort’, but at the same time they are putting more pressure on themselves and more risk on the business.
+As mentioned previously, the move toward a more agile IT with DevOps means deploying with far greater frequency, and that can actually help you operate with less stress and risk. Errors and fixes are likely smaller in effort, and you will be able to roll back hick-ups much faster. Sure your folks may need to stay late occasionally, but they can do their work more often during typical working hours, reclaim their weekends and have significantly less stress and pressure than via traditional large-scale rollouts where expectations are high and so is the risk of failure, re-work, and long days. Plus, with DevOps you are actually delivering on business requirements faster – instead of deploying what was needed months ago.
+TIP #4: Make it personal—everyone is different
+Realizing everyone is inherently different is critical to incentivizing and empowering your IT team to transform. In most IT organizations, the responsibility is on the first line manager to know their people, understand what makes them tick and channel the right talents and motivations. Some team members may see a move to DevOps as the ideal resume enhancement opportunity. Some may feel intimidation because they are innately risk averse. Still others may not be sure what to think especially if you have one team doing DevOps while they remain on a separate team doing things “the old way”. What’s important for managers is not to stop at how to make DevOps relevant for a role, but to consider the specific individual. Ask yourself, “How will each of my team members react to this cultural change, and how can I tap into their natural motivations to make them enablers of the change not resistors?”
+￼￼￼￼www.ITinvolve.com 5
+￼￼
+￼￼A WHITEPAPER FOR IT LEADERS
+Define Your DevOps Action Plan
+￼From what I’ve seen, there also is a generational aspect to DevOps cultural transformation. Younger employees who don’t know a world without mobile phones and grew up on social media are likely more comfortable with agile, small release deployments. Those with more experience are also more likely to think about the reasons why DevOps ‘can’t work’ and it will be key for first-line managers to engage them, listen to their concerns, and work to address them in a way that benefits the organization and realizes the wisdom of their experience.
+The bottom line here is that if you make it personal you will build trust and that will help you drive transformation in your organization faster. Perhaps even consider establishing a ‘Take a Developer or Ops Team Member to Lunch Day’. By working to understand each other’s worlds, challenges, pressures and goals you can unleash a swifter cultural change within your organization.
+Tools are Important Too
+In IT, we’re inundated with tools. Developers have their favorite tools and sys admins do too, so does the project office, the service support group, and the QA team. There are IT tools purchased by organizations years ago that are still being used and others that aren’t, tools organizations have recently started using, and others being considered at any given point in time. There are also general-purpose tools the company wants employees to use for things like document sharing, instant messaging, and so on. It’s gotten to the point where a lot of IT organizations say, “We have two of everything like Noah’s ark”, yet they still want more tools.
+￼￼￼￼Part of the reason is that IT practitioners like gadgets and tools. We like the fact that they help us do things and amplify our own abilities, but we also know they can fragment information and can blindside us when someone uses a tool to do something that others weren’t aware of.
+￼www.ITinvolve.com 6
+￼￼
+￼￼Do we really need more tools to do DevOps?
+DevOps has a close association with the Agile Software Development movement, and one of the core tenets of the Agile Manifesto is to value “Individuals and Interactions over processes and tools”. Nevertheless, it’s hard to find a DevOps talk or article that doesn’t discuss the need for tools like git, docker, jenkins, puppet, chef, and so on. The reason for this is straight-forward: continuous integration and continuous delivery are best done through automation so we can follow a repeatable method and roll things back quickly if there are issues.
+At a more basic level, however, we need to acknowledge that there are really two types of tools:
+1) Tools that help us amplify our abilities as individuals (e.g. you can drive a nail into a board with a hammer much more effectively than with your hand or a rock because of the strength of the hammer’s material and the principle of leverage)
+2) Tools that help us coordinate work across many humans, thereby, amplifying our individual abilities (e.g. You can build a house much faster and with better quality by leveraging different experts’ skills and using a shared set of blueprints for building construction, plumbing, electrical, heating/cooling, and so on)
+The same distinction holds true for software development, deployment, and operations. One individual can theoretically gather requirements, build the software, test the software, deploy the software, and support the software while simultaneously project manage their personal time. Most computer science students have done this at one time or another, but when we are talking about enterprise applications that support core business functions it clearly doesn’t make sense because of the amount of effort required at each step and the specialized skills necessary for a high level of competency in each area.
+What this means is that we absolutely need tools that amplify our abilities, or that of our individual teams, i.e. the hammers; but we also need to invest in tools that help us coordinate work across teams, i.e. the shared sets of blueprints.
+Tools That Amplify Individual and Team Abilities
+A lot of the tools attention in the DevOps community has been focused on: source code management systems like git or bitbucket; requirements planning tools like jira or rally; build tools like jenkins; automation tools like puppet, chef, and ansible; and project management tools like MS Project. These tools help us amplify work in each of these respective areas just like hammers, saws, drills, and screwdrivers perform specific functions when building a house and often follow a natural sequence (first you hammer boards in place to create a wall, then hammer on the sheet rock, then saw or drill holes in the sheetrock, screw in electrical outlets and fixtures, and so on.)
+Just like building a house has a natural sequence, so does the sequence of tools from code to deployment and it’s often referred to as the DevOps “tool chain”. This whitepaper doesn’t cover each area of the typical DevOps tool chain (bug tracking, automated testing, and other categories are common too), the point is you need to take
+￼￼￼￼www.ITinvolve.com 7
+￼￼
+￼A WHITEPAPER FOR IT LEADERS
+Define Your DevOps Action Plan
+time to define what the DevOps tool chain should be for your organization and to do so intentionally, taking into account the tool investments your organization already has, the needs and skillsets of your organization, and your own practical budget realities.
+Do you have experience in using and self-supporting open source tools or do you have a preference for commercially provided tools? Are you comfortable having multiple requirements tools in different teams or business units, or do you want a single standard? Only you can answer these questions for your organization. There is no prescriptive formula for DevOps tools, although I’ve mentioned a number of commonly used ones.
+Tools that Amplify Work Across Teams
+The second area you should focus on are tools to help coordinate work and amplify abilities across teams, i.e. bridging the inherent gaps in the DevOps tool chain, a subject that has received less attention in the DevOps community to-date. This makes sense because it’s human nature to think first about our own function and team.
+However, this silo thinking is one of the core problems DevOps was developed to address; the long-time focus on tools for specific IT “work stations” has actually entrenched the cultural silos of development, QA, operations, and project office in IT. For example, most IT organizations have two totally separate systems for tracking issues – in operations, it’s the service desk application and for code issues in development it’s the bug tracking application – and there is little or no relationship between them. In fact, you are lucky if an incident in the service desk can be tied to a bug tracking number.
+If we are adopting DevOps in order to optimize the flow of new software releases to support business agility, then we need to look at how we will coordinate work and avoid information distortion and loss when different teams are using different, disconnected tools. In addition to your tool strategy for optimizing individual DevOps workstations, therefore, you also need to have a strategy for the tools that are going to help you effectively manage flow across those workstations.
+Most DevOps transformation efforts start small with a core team of perhaps a dozen or so members, and they’re often located in one physical location. In this case, you might be able to make do with regular face-to-face meetings and general-purpose communication tools like email, instant messaging, and a SharePoint site or Wiki with MS Office documents. The scope of your cross-team collaboration tools aligns with the scope of your DevOps effort and you might be able to rely on people interactions to unify the tool chain.
+But as you scale your DevOps efforts to larger, distributed teams across time zones and multiple business units and applications, your cross-team tools approach should scale as well. The point-to-point nature of instant messaging, ignored reply-all emails, and SharePoint ‘document dumps’ aren’t effective in coordinating the efforts of dozens or hundreds of developers, testers, admins, and project managers. Information gets lost, information gets overlooked, and the gaps in your tool chain expand. A feature misses a commit and doesn’t get into the build and isn’t deployed. An operational requirement is missed so the test environment isn’t configured properly and the release gets pushed. Three weeks are spent solving a performance issue through code when it could have
+￼￼￼￼www.ITinvolve.com
+8
+￼￼
+￼been addressed faster via hardware. A legacy application dependency in production is overlooked and the new mobile app doesn’t work in production as it did in test.
+There is an emerging class of purpose-built IT collaboration tools, such as ITinvolve, that enable the creation of cross-team workspaces where information is proactively shared as IT teams and tools get work done. This helps large, distributed cross-functional teams collaborate more effectively with each other in-context to raise questions, provide answers, and incorporate what’s happening up and down the DevOps tool chain in their individual work.
+For example, the developer will have better visibility into when the next build is going to occur and can ensure the feature is committed in time or can reach out to the build engineer in the workspace to request a delay in order to ensure the feature makes it in. The operations engineer can have earlier and better visibility into operational requirements so he can ensure the test environment is configured properly and avoid unnecessary delays. The legacy application dependency in production can be reproduced in test to ensure the application works properly once moved to production. And so on. By eliminating the handoff gaps and information loss across the DevOps tool chain, you can reduce the risk of communication issues, solve problems more holistically rather than individually, and better achieve the goal of improving business agility.
+Defining Your Action Plan
+In the first section, this whitepaper focused on the critical step of thinking about DevOps in the context of your organization’s applications. In the second section, four tips were provided to help foster a DevOps culture in your organization. In part three, the role of tools was discussed and how they can amplify (or constrain) individual and team abilities as well as work across teams.
+In this fourth section, the previous topics of (A)pplications, (C)ulture, and (T)ools will be woven together to illustrate how to define your DevOps action plan. Given the breadth of these three areas, though, it’s easy to feel overwhelmed from the start.
+￼￼￼￼www.ITinvolve.com 9
+￼￼
+￼A WHITEPAPER FOR IT LEADERS
+Define Your DevOps Action Plan
+Here’s a tip, whether you are a CEO, VP, or manager, smart leaders set a vision (often at least two or three years out) and then make small decisions every week with the goal of generally moving the organization or team in the direction of the vision over time.
+With this in mind, first set a vision for DevOps as it relates to your Applications, your Culture, and your Tools. To set a DevOps vision for your applications, place each of your current applications into one of the three pace layers discussed in the first section – system of record, system of differentiation, or system of innovation. Then, do the same thing for any applications you are planning to add to your portfolio. With that context, specific to your organization, formulate a strategic vision for how DevOps will apply to your systems in each layer. Will you seek to have DevOps principles for continuous integration and continuous delivery in place for all of your systems of innovation, and if so, by when? How about for systems of differentiation? Will DevOps be the norm for each of those applications or just some, and by when? Then ask yourself the same questions about your systems of record.
+Next, turn to your cultural vision. In the second section, the importance of baselining the degree of collaboration you have between the business, dev, and ops as well as how you view work (in workstations or in end-to-end flow terms) were discussed. How you incentivize people to modify their behavior both with respect to their roles and as individuals were also key points. With this as context, define your DevOps cultural vision. What does collaboration between the business and development look like in the future? What does collaboration look like between development and operations? How about between dev, QA, and ops? And don’t forget security too.
+How will you recognize when your culture is optimized for flow? For example you might document a set of indicators to measure at regular intervals. Here are three good ones. How much work-in-process (WIP) do we have for Application X today vs. how much was there a quarter ago? What is the average time it takes from the definition of a requirement to its deployment in production today vs. a quarter ago? How often did we make updates to Application X in production this quarter vs. last quarter?
+Now, consider your tools vision. Take a baseline of the tools you are using today for each step of the typical DevOps tool chain from requirements management to source code control and bug tracking through to build management, automated testing, configuration management and deployment. And don’t forget project management tools too. What is the state of your tool investment in each of these areas? Do you have gaps? Do you have multiple tools in the same area, and, if so, is that okay or do you want to standardize on one? Do your tools vary based on the applications they are used with (see pace-layering discussion above)?
+Then take an inventory of your collaboration tools across dev and ops. Are you still mostly using email and sharepoint sites? What role does instant messaging play in your dev and ops teams today? What about conference calls and meetings? Once you’ve baselined where you are today, set a vision for where you want to be in the future. Are you looking to reduce the need for conference calls and meetings, and if so by how much (time or average number of participants)? What issues are you running into around email and IM communications that need to be addressed and also for SharePoint? Have you looked at the emerging class of DevOps collaboration tools and concepts such as ITinvolve and ChatOps? What role can they play in streamlining communications,
+￼￼www.ITinvolve.com
+10
+￼￼
+￼￼keeping people informed, and presenting information to staff so they don’t have to go hunting around for it in dozens of systems or call more meetings?
+With this as background, define your DevOps tools vision by setting priorities for filling identified gaps and rationalizing existing investments, then set a general target time frame for each area.
+Now that you’ve set a vision in each area – (A)pplications, (C)ulture, and (T)ools, it’s time to develop your short term action plan. First pick one or two applications to begin your DevOps journey. Ideally, they should be applications visible to the business and where you can lay claim to the impact DevOps can have on business goals like time-to-market and responsiveness to customer needs.
+Once those applications are identified, take an inventory of all the people across your organization (including the business) and those responsible for the development and delivery of the selected applications. Develop a specific plan for how you will educate those individuals on DevOps principles (e.g. attend DevOpsDays, read The Phoenix Project, read a sets of articles and watch a set of seminar or demo recordings), and also develop a specific plan for how you will incentivize behavior changes for their roles as well as what is expected of first line managers to take individual personalities, skills, and experiences into account.
+It’s also important not to ignore the people who aren’t participating in this first DevOps effort. Educate them as well, for example through an all-hands meeting and an email from leadership. Explain why the company is investing in DevOps transformation, why these applications have been chosen, and your long-term vision across Applications, Culture, and Tools to realize the transformation. Help them understand where the organization is going and why, and how it may impact them in the future. Avoid the perception that “the best people were picked for this DevOps effort and you are not among them” or that this group of people is being given license to do things that others can’t (e.g. make changes outside of the standard change management process) – otherwise, you risk reducing morale, good people leaving, and even sabotage of your DevOps efforts.
+Once you’ve completed the above, map the relevant tools you have in place today for managing the development and delivery of these applications as well as the tools on your vision roadmap defined above that will be added or rationalized in the next six months.
+By following the above recommendations, you will now have a clear action plan for the near term and a long- term vision you can use to guide daily decisions to move you closer to your vision. Lastly, don’t be rigid about your short-term plan or long-term vision, recognize that everyone is learning, including you, and that one of the key principles behind DevOps is the feedback loop!
+We hope this paper is useful to you on your DevOps journey.
+￼￼￼www.ITinvolve.com 11
+￼￼
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼MAIN 877-741-8944 FAX 832-201-8104 WEB www.itinvolve.com EMAIL info@itinvolve.com
+11200 Richmond Avenue, Suite 350 Houston, Texas 77082
+￼￼￼￼A WHITEPAPER FOR IT LEADERS
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼</Text>
+        </Document>
+        <Document ID="20">
+            <Title>General Notes</Title>
         </Document>
     </Documents>
 </SearchIndexes>
