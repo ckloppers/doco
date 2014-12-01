@@ -1,138 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <SearchIndexes Version="1.0">
     <Documents>
-        <Document ID="3">
-            <Title>Affected Parties</Title>
-            <Text>Affected parties
-
-[List business processes or systems which will be impacted by this project and describe how they will be affected.]
-
-</Text>
-        </Document>
-        <Document ID="4">
-            <Title>Background</Title>
-            <Text>Project background and description
-
-This document outlines a continuous delivery action plan for ultimate adoption within Betfair Australia. For a phase 1 focus will be give to the Sportsbook/Wagerplayer product given that it is a  
-</Text>
-        </Document>
-        <Document ID="5">
-            <Title>Scope</Title>
-            <Synopsis>Defines the boundaries of a project. Think of the scope as an imaginary box that will enclose all the project elements/activities. It not only defines what you are doing (what goes into the box), but it sets limits for what will not be done as part of the project (what doesn’t fit in the box).  Scope answers questions including what will be done, what won’t be done, and what the result will look like.]</Synopsis>
-            <Text>Project scope
-
-Project scope defines the boundaries of a project. Think of the scope as an imaginary box that will enclose all the project elements/activities. It not only defines what you are doing (what goes into the box), but it sets limits for what will not be done as part of the project (what doesn’t fit in the box).  Scope answers questions including what will be done, what won’t be done, and what the result will look like.]
-
-</Text>
-        </Document>
-        <Document ID="6">
-            <Title>High-level requirements</Title>
-            <Text>High-level requirements
-</Text>
-        </Document>
-        <Document ID="7">
-            <Title>Deliverables</Title>
-            <Text>Deliverables
-
-[List agencies, stakeholders or divisions which will be impacted by this project and describe how they will be affected by the project.]
-
-
-</Text>
-        </Document>
-        <Document ID="8">
-            <Title>Affected business processes and systems</Title>
-            <Text>Affected business processes and systems
-</Text>
-        </Document>
-        <Document ID="9">
-            <Title>Specific exclusions from Scope</Title>
-            <Text>Specific exclusions from scope</Text>
+        <Document ID="18">
+            <Title>Images</Title>
         </Document>
         <Document ID="10">
             <Title>Implementation Plan</Title>
             <Text>Implementation plan
 </Text>
-        </Document>
-        <Document ID="11">
-            <Title>High-level timeline and schedule</Title>
-            <Text>High level time line and schedule
-</Text>
-        </Document>
-        <Document ID="12">
-            <Title>Dicussion with Rob Hare</Title>
-            <Text>Rob is the Architect and is very interested in establishing and PaaS solution for Betair - below are some notes captured from email conversations with Rob
-
-Hi Corne, just been chatting to Matt about how you’ve advanced on docker; super cool. I’m just sharing some thoughts of mine around how I think we should approach machine creation. I am a big fan of Paas; the openshift stack is aligned to run docker.
-
-Have a look through the below and chat some with Mat; Keen to hear thoughts on this as an option
-
-https://openshift.github.io/
-https://blog.openshift.com/openshift-v3-platform-combines-docker-kubernetes-atomic-and-more/
-
-*The note worthy pieces:
-            Redhat have been working to productionise docker
-            Redhat also have a commercially supported offering of openshift, as well as a cloud offering so there is some good flexibility
-
-
-Hi Rob,
-
-I completely agree that we should look at providing a platform as a service and get to a point where Dev can provision their own VM’s / Containers and spin up infrastructure as required. This will be hugely beneficial in getting us to our continuous delivery “goal”.
-
-Thanks for the links below.   
-
-I have started to collect and categorise tools around Docker. (Please add to this if you see anything missing, or stumble upon something).
-Containerization technologies like Docker moves so fast and we should constantly look and see what is out there. 
-
-https://confluence.app.betfair/display/AusLinux/Docker+-+Related+Tools
-
-Openshift have a few Docker related projects, and seem to be at the cutting edge around containerization tooling, looks very interesting.
-
-I will certainly keep working with Matt on Docker. I have also been tasked to compile a report to look at continuous delivery and see how IS can work closer with DEV and allow for automated builds and deployments, promotion of builds to various delivery phases (DEV, PPx, NXT, PROD) and hopefully provide a PaaS solution within the organisation.
-
-I’m aware of some “bare-metal” servers (6 or 8 of physical racks – not sure about specs) that we could use for a proof of concept PaaS solution. I have in the past worked with OpenStack and it also now supports container/Docker orchestration and we could evaluate this in conjunction with Openshift. 
-https://wiki.openstack.org/wiki/Heat
-
-This is very existing and we have a real opportunity here to make a difference! Lets keep the communication and workgroup going ?
-
-Keep well and chat soon.
-</Text>
-        </Document>
-        <Document ID="13">
-            <Title>Ramesh comms with Steve - CD from IS perspective</Title>
-            <Text>Steve,
-
-High level summary of what CD objectives are from an IS perspective
-
-WHAT
-Devs to be able to deploy Software to DEV?NXT?PP1/2/3
-WHY 
-Increase velocity/speed of deployments (Ultimately speed to market….)
-HOW 
-Partition Infrastructure Config/Application config into discrete components
-Devs Responsible &amp; Accountable for Application Config
-IS Responsible &amp; Accountable for Platform config
-Build pipeline to facilitate automated promotion of packages from one Environment to the Next.
-Automated Testing is a pre-requisite for this to succeed.
-Automated Fortify scan of source code.
-
-Thanks
-Ramesh
-</Text>
-        </Document>
-        <Document ID="14">
-            <Title>02_CD_test_strategy_low-res</Title>
-        </Document>
-        <Document ID="15">
-            <Title>03_CD_automated_acceptance_test_low-res</Title>
-        </Document>
-        <Document ID="16">
-            <Title>04_CD_managing_data_low-res</Title>
-        </Document>
-        <Document ID="17">
-            <Title>01_CD_the_idea_low-res</Title>
-        </Document>
-        <Document ID="18">
-            <Title>Images</Title>
         </Document>
         <Document ID="19">
             <Title>ITinvolve_WHITEPAPER_DefineYourDevOpsActionPlan_Nov-2014</Title>
@@ -260,8 +135,199 @@ We hope this paper is useful to you on your DevOps journey.
 ￼￼￼￼A WHITEPAPER FOR IT LEADERS
 ￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼</Text>
         </Document>
+        <Document ID="11">
+            <Title>High-level timeline and schedule</Title>
+            <Text>High level time line and schedule
+</Text>
+        </Document>
+        <Document ID="12">
+            <Title>Dicussion with Rob Hare</Title>
+            <Text>Rob is the Architect and is very interested in establishing and PaaS solution for Betair - below are some notes captured from email conversations with Rob
+
+Hi Corne, just been chatting to Matt about how you’ve advanced on docker; super cool. I’m just sharing some thoughts of mine around how I think we should approach machine creation. I am a big fan of Paas; the openshift stack is aligned to run docker.
+
+Have a look through the below and chat some with Mat; Keen to hear thoughts on this as an option
+
+https://openshift.github.io/
+https://blog.openshift.com/openshift-v3-platform-combines-docker-kubernetes-atomic-and-more/
+
+*The note worthy pieces:
+            Redhat have been working to productionise docker
+            Redhat also have a commercially supported offering of openshift, as well as a cloud offering so there is some good flexibility
+
+
+Hi Rob,
+
+I completely agree that we should look at providing a platform as a service and get to a point where Dev can provision their own VM’s / Containers and spin up infrastructure as required. This will be hugely beneficial in getting us to our continuous delivery “goal”.
+
+Thanks for the links below.   
+
+I have started to collect and categorise tools around Docker. (Please add to this if you see anything missing, or stumble upon something).
+Containerization technologies like Docker moves so fast and we should constantly look and see what is out there. 
+
+https://confluence.app.betfair/display/AusLinux/Docker+-+Related+Tools
+
+Openshift have a few Docker related projects, and seem to be at the cutting edge around containerization tooling, looks very interesting.
+
+I will certainly keep working with Matt on Docker. I have also been tasked to compile a report to look at continuous delivery and see how IS can work closer with DEV and allow for automated builds and deployments, promotion of builds to various delivery phases (DEV, PPx, NXT, PROD) and hopefully provide a PaaS solution within the organisation.
+
+I’m aware of some “bare-metal” servers (6 or 8 of physical racks – not sure about specs) that we could use for a proof of concept PaaS solution. I have in the past worked with OpenStack and it also now supports container/Docker orchestration and we could evaluate this in conjunction with Openshift. 
+https://wiki.openstack.org/wiki/Heat
+
+This is very existing and we have a real opportunity here to make a difference! Lets keep the communication and workgroup going ?
+
+Keep well and chat soon.
+</Text>
+        </Document>
         <Document ID="20">
             <Title>General Notes</Title>
+            <Text>* Every commit a candidate for Deployment
+* Build single deployable artifact
+ * Continuous Delivery doesn’t mean every change is deployed to production. It means every change is proven to be deployable at any time.
+* Continuous delivery is a capability to continually deploy software to production as frequently as needed.
+
+Why CD?
+=======
+Improve speed to market
+Ensured quality
+Deploying code is seamless, no longer strenuous
+Improves you disaster recovery / Business continuity
+Improve business agility
+
+
+Beginnings of a deployment pipeline
+===========================
+Commit Tests -&gt; Integration Tests -&gt; Deployable Artifact -&gt; Deploy to Env
+
+SCM -&gt; 
+Continuous Integration Tests (Unit Tests) -&gt;
+ (optional) System Integration Tests (SIT) -&gt;
+ (optional) Operational Acceptance Test (OAT) -&gt;
+ (optional) Security Tests -&gt;
+ (optional) Compliance Tests -&gt;
+Deploy -&gt;
+Deliver
+</Text>
+        </Document>
+        <Document ID="13">
+            <Title>Ramesh comms with Steve - CD from IS perspective</Title>
+            <Text>Steve,
+
+High level summary of what CD objectives are from an IS perspective
+
+WHAT
+Devs to be able to deploy Software to DEV?NXT?PP1/2/3
+WHY 
+Increase velocity/speed of deployments (Ultimately speed to market….)
+HOW 
+Partition Infrastructure Config/Application config into discrete components
+Devs Responsible &amp; Accountable for Application Config
+IS Responsible &amp; Accountable for Platform config
+Build pipeline to facilitate automated promotion of packages from one Environment to the Next.
+Automated Testing is a pre-requisite for this to succeed.
+Automated Fortify scan of source code.
+
+Thanks
+Ramesh
+</Text>
+        </Document>
+        <Document ID="3">
+            <Title>Affected Parties</Title>
+            <Text>Affected parties
+
+[List business processes or systems which will be impacted by this project and describe how they will be affected.]
+
+</Text>
+        </Document>
+        <Document ID="21">
+            <Title>eBook_Benefits-of-Continuous-Delivery_v5</Title>
+            <Text>￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼The ContinuousDelivery EffectUnderstanding the Benefits of Continuous DeliveryPOWERING CONTINUOUS DELIVERY￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼eBook
+￼￼￼￼￼Software is Eating the WorldIn just about any industry, the success of an organization is increasingly shaped by the strength of its software. Mobile, Web, and embedded applications define how customers perceive your brand, how employees work and collaborate, and how competitive you are in the market.Users are increasingly intolerant of inconvenience, and impatient for gratification. Failure to meet customer expectations can bring swift and significant repercussions. To stay competitive, companies like Amazon, Flickr, and Etsy are embracing a development discipline known as Continuous Delivery.What is Continuous Delivery and how can it help you and your organization succeed in a software-driven economy?Read on and discover the gains Continuous Delivery can bring to your organization’s application owners, developers, and IT operations teams.￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+Continuous Delivery in a NutshellContinuous Delivery is a development discipline that takes the practice of Agile development to its logical conclusion, creating software that is always ready to release. It does this by building upon and extending Agile, Continuous Integration, and DevOps practices and tools to transform the way software is delivered.By automating routine and time-consuming build, test, and deploy processes—and exercising them early and often— Continuous Delivery brings predictability and repeatability to software pipelines, vastly improving release quality and frequency.With Continuous Delivery, production deployments become a boring, push-button process that can be accomplished by any entitled user at any time. This encourages smaller, more frequent releases— eliminating the risk inherent in larger and more complex “big bang” deployments.￼￼You’re doing CD when:• Your software is deployable throughout its lifecycle• Your team prioritizes keeping the software deployable over working on new features• Anybody can get fast, automated feedback on the production readiness of their systems any time somebody makes a change to them• You can perform push-button deployments of any version of the software to any environment on demand— Martin Fowler, 2013
+￼Continuous Delivery:Benefits for Application OwnersBefore Continuous Delivery, organizations tended to focus on big-bang application releases, which required a lot of planning and development time and often ended in missed deadlines or buggy code.In Continuous Delivery environments, the business moves from a focus on big releases and long-term plans to small, frequent, and incremental releases that continue indefinitely.￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼At its core, DevOps is not about Dev. Or Ops. It’s about the business.￼￼￼￼￼It’s hard to define what DevOps is. But it’s easy tosee what it does. It enables a software delivery pipeline that emphasizes agility, reliability, availability, and security.￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼Continuous Delivery:Benefits for Application OwnersThis fundamental shift provides application owners with the ability to:￼Respond to market conditions. Quickly.￼Traditionally, application roadmaps were defined based on months of research. Teams commit to fulfilling these requirementsby agreeing to long-term plans and deliverables. Often, by the time the plans have been implemented, the market has moved on and requirements have changed.By delivering smaller batches of value on a regular basis, organizations can find out directly from customers whether the new feature or capability actually delivered the added the value or benefits expected.￼Improve quality and compliance.￼In large, distributed organizations it is hard, if not impossible, to enforce standards and verify compliance with policies. Without Continuous Delivery, business leaders have no way to determine whether code received 100% of the required testing or security validation.Because Continuous Delivery leverages automation across the lifecycle, it is much easier to enforce standardized processes, and ensure compliance with testing and security policies. This also results in systems with fewer issues at any given time, because complete testing coverage means bugs are discovered and fixed faster.￼Ship product on time.￼Have you ever missed a release date? You are not alone. Before Continuous Delivery, looming release dates placed increased stress on the development team, which often meant features had to be dropped in order to deliver a viable final product. QA and IT operations teams lacked the time necessary to perform sufficient testing. Once code is deployed, failures and quality issues were common.By combining well-rehearsed and automated processes with software that is always ready to release, Continuous Delivery provides the business the ability to ship on-demand. With Continuous Delivery, application owners can choose to deploy every feature the minute it’s ready, or hold features and bundle them together into a larger release.
+￼￼Continuous Delivery:Benefits for Development TeamsBefore Continuous Delivery, development teams spent much of their time dealing with the process of software production, creating (and re-creating) scripts to handle CI tasks, documenting test requirements for QA teams, and waiting for feedback from unit and system testing.In Continuous Delivery environments, automation helps make the process disappear for developers, while ensuring that the tasks necessary to build, test, and release code are carried out efficiently.￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼Continuous Delivery:Benefits for Development TeamsContinuous Delivery provides developers with the ability to:￼Make process bulletproof and invisible.￼Without Continuous Delivery, processes associated with building, testing, and deploying software tended to be manual, with manyerror prone handoffs. When individual teams implement scripts to automate their part ofthe process, these scripts are difficult to share and aren’t easily portable to other projects or environments. This patchwork of processes makes it difficult to track the progressof software through the pipeline. Often, managers and staff members have to reference spreadsheets in order to track test coverage and code reviews.With Continuous Delivery, code commits immediately trigger processes that automatically compile and test any changes. This allows teams to focus on developing new incremental value, confident with the knowledge that automation will ensure their code is always ready for release into production.￼Get faster feedback.￼Before Continuous Delivery, lengthy build times, insufficient infrastructure resources, non-standard environments, and overworked QA teams bring Agile development to a crawl. These slow feedback loops mean developers either have to wait for test results (destroying productivity) or move on to other work to keep busy (requiring constant, time-sapping context switching). Once feedback is received, going back to fix issues requires developers to re- familiarize themselves with work they did hours, days, or even weeks prior.Automated testing and standardized environments are the foundation of Continuous Delivery, which means QA tests catch real problems, not configuration errors. Feedbackto the developer gets delivered faster, and is more actionable and more effective. As a result, errors can be fixed quickly—before they become expensive to repair.￼Eliminate the stress of application release.￼Without Continuous Delivery, the application lifecycle is characterized by a series of pointsat which code has to be “thrown over thewall” to successive QA and operations teams. Each hand off has its own set of efforts, which includes specifying context, configurations, test environments, and tests. Each step presentsan opportunity for friction, miscommunication, errors, and delays.In Continuous Delivery environments,when developers commit code, automation immediately carries it through all required testing processes—eliminating the stress, hassles, and delays of manual project handoffs. Instead of trying to memorize changing processes, and worrying about whether every step was adhered to, developers count on automation to execute the steps and workflows required. And because each commit results ina release-ready build, the decision to actually release can be made without requiring developer interaction or assistance.
+￼Continuous Delivery: Benefits for IT OperationsBefore implementing Continuous Delivery, operationsteams are saddled with manually building and supporting development, testing, and production environments. Each of these environments may be unique – a “work of art” – each with its own nuances and customer configurations. Fundamentally, this inconsistency breeds issues. Variances mean that, even though the code a developer built ran fine on development machines, issues arise in testing. Worse, code that passes system testing often fails in production – leaving it up to customers to discover the issues.￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼The key test [of whether or not you’ve achieved CD] is that a business sponsor could request that the current development version of the software be deployed into production at a moment’s notice—and nobody would bat an eyelid, let alone panic.— Martin Fowler, 2013￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼Continuous Delivery: Benefits for IT OperationsBy leveraging Continuous Delivery, your operations teams can:￼Make deployments boring.￼Prior to implementing Continuous Delivery, each release is large and cumbersome to roll out—a massive, lengthy, and stress- filled undertaking. Further, given releases’ scale and complexity, it is hard to roll back to the prior version when issues arise— exacerbating the duration and penalties of having bugs surface in production.Continuous Delivery environments are characterized by releases that have fewer integration points and code branches, making them simple and stress-free to implement. Further, when finite changes and variables have to be managed, releases can be much more easily and quickly reverted if needed.￼Keep up with the rate of change.￼Before Continuous Delivery, change was a bad thing for IT operations teams. Because each change is massive, time consuming, and risky, operations staff members can’t change as fast as the business needs, and, for that matter, don’t really want to.Leveraging more automated, standardized, and modular approaches, operations can accommodate changes in an efficient, fast, and predictable fashion. Need to scale a test environment to accommodate more tests? Simply spin up additional virtual environments based on pre-defined configurations.￼Know what is deployed where.￼Before Continuous Delivery, development, testing, and production infrastructures are independently built and maintained. These unique environments make for a dizzying array of patch releases, hardware types, OS versions, and more—with all these variables manually tracked, monitored, and supported.In Continuous Delivery-driven environments, operations teams take a fundamentally different approach, effectively managing the infrastructure like code. With Continuous Delivery, standardization yields consistency and clarity across environments. Cookie- cutter, well-formulated templates providea foundation for tracking and managing environmental variables, with a minimum of uncertainty or guesswork.
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼POWERING CONTINUOUS DELIVERY￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼ConclusionCompetitive advantage, profits, and growth are increasingly tied to the applications a business brings to market. Continuous Delivery represents a vital approach for organizations that want to deliver application innovation to fuel improved business results. With Continuous Delivery, organizations gain the agility needed to deliver innovation faster, while boosting staff efficiency and managing costs.￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼About Electric CloudElectric Cloud powers Continuous Delivery. We help mobile, embedded systems and enterprise web/IT providers deliver better software faster by automating and accelerating build, test, and deployment processes at scale. Industry leaders like Qualcomm, SpaceX, Cisco, GE, Gap, and E*TRADE use Electric Cloud solutions and services to boost DevOps productivity and Agile throughput.For more information, visit http://www.electric-cloud.com.￼￼￼￼￼￼￼￼￼￼￼￼￼￼www.electric-cloud.comCorporate HeadquartersElectric Cloud, Inc.35 S. Market Street Suite 100 San Jose, CA 95113T: 408.419.4300F: 408.419.4399 info@electric-cloud.comElectric Cloud Europe1 Northumberland Avenue Trafalgar Square, LondonWC2N 5BW United KingdomT: +44(0)207 872 5500 europe.info@electric-cloud.comElectric Cloud Japan KK22F Shibuya Mark City West 1-12-1 Dogenzaka, Shibuya-ku Tokyo 150-0043 JapanT: +81.3.4360.5375 japan-info@electric-cloud.com</Text>
+        </Document>
+        <Document ID="14">
+            <Title>02_CD_test_strategy_low-res</Title>
+        </Document>
+        <Document ID="4">
+            <Title>Background</Title>
+            <Text>Project background and description
+
+This document outlines a continuous delivery action plan for ultimate adoption within Betfair Australia. A common goal for continuous delivery is to enable faster release and deployment cycles by taking advantage of agile development methodologies; improved collaboration between development and operations teams and the adoption of fit-for-purpose automation tools. Automation tools enables continuous integration of developed code and the continuous deployment of new features into provisioned environments. It’s important to remember that there is no “one-size_fits-all” when rolling out a continuous delivery action plan. Careful consideration should be given to type of tools and processes already adopted within Betfair with an ultimate goal to have minimal disruption. 
+
+Continuous delivery is ultimately about increasing velocity of deployments to get faster delivery of new features and fixes.  
+
+
+
+
+
+
+  For a phase 1 focus will be give to the Sportsbook/Wagerplayer product given that it is a  
+</Text>
+        </Document>
+        <Document ID="22">
+            <Title>Benefits CD</Title>
+            <Text>What is continuous delivery?
+Continuous delivery is a design practice which is used in software development to improve the software delivery. The product backlog should reflect the business needs based on what customers want. User stories with the highest priority should be on top and are done first. When features are done you don’t want these to collect dust on the shelf. These should be delivered as quickly as possible to the customer. When having a higher frequency in delivering the software the new functionality will reach the customer more quickly. This allows you to collect feedback and improve your product. The benefits of continuous delivery are:
+	▪	Speed: Delivering new functionality or resolve bugs quickly to the end user which should fulfill the business needs.
+	▪	Quality: By delivering your software quicker the change impact is reduced and allows you to get quicker feedback
+	▪	Focus: With focusing only the features that are delivered during the sprint the impact is less if you apply a couple of sprints combined. This allows the team to focus on a minimal set features which also results in less stress.
+Functional and unit testing
+To achieve continuous delivery testing your product becomes crucial. With applying unit testing in combination with functional testing you should cover the most features of your product. Code coverage does not always confirm that it is tested properly. Focus on the most important parts of your code. With functional testing create happyflows which should cover the basic flows of your product. For example, begin with the setup and configuration and after this the basic actions within the product. It is important to validate the outcome from the functional tests. Improving the unit and functional testing should be an ongoing process but start with the basics. Based on the reported bugs you could create a new unit and functional tests so this bug cannot occur again.
+By automating this your product is automatically tested and this allows the product owner or acceptance team to focus on the delivered features or resolved bugs.
+Team effort
+It is a team effort to achieve continuous delivery. When your organization has separate departments for testing this can interrupt the flow of the software release cycle. A way to improve this is to mix development and testing in one team. When testing within the same team allows a developer to quickly discuss a rejected user story. This will improve communication and miss communication is reduced.
+Delivering the software
+Depending on the type of software, delivering on a high frequency can be challenging. When the application is running in a self hosted environment you are in control of applying changes. With traditional software automatic updates allows you to deliver the software to your customer. In managed environments this will be disabled. It is important to notify the customer why you are releasing on this high frequency so they see the benefits.
+</Text>
+        </Document>
+        <Document ID="15">
+            <Title>03_CD_automated_acceptance_test_low-res</Title>
+        </Document>
+        <Document ID="5">
+            <Title>Scope</Title>
+            <Synopsis>Defines the boundaries of a project. Think of the scope as an imaginary box that will enclose all the project elements/activities. It not only defines what you are doing (what goes into the box), but it sets limits for what will not be done as part of the project (what doesn’t fit in the box).  Scope answers questions including what will be done, what won’t be done, and what the result will look like.]</Synopsis>
+            <Text>Project scope
+
+Project scope defines the boundaries of a project. Think of the scope as an imaginary box that will enclose all the project elements/activities. It not only defines what you are doing (what goes into the box), but it sets limits for what will not be done as part of the project (what doesn’t fit in the box).  Scope answers questions including what will be done, what won’t be done, and what the result will look like.]
+
+</Text>
+        </Document>
+        <Document ID="6">
+            <Title>High-level requirements</Title>
+            <Text>High-level requirements
+</Text>
+        </Document>
+        <Document ID="16">
+            <Title>04_CD_managing_data_low-res</Title>
+        </Document>
+        <Document ID="7">
+            <Title>Deliverables</Title>
+            <Text>Deliverables
+
+[List agencies, stakeholders or divisions which will be impacted by this project and describe how they will be affected by the project.]
+
+
+</Text>
+        </Document>
+        <Document ID="8">
+            <Title>Affected business processes and systems</Title>
+            <Text>Affected business processes and systems
+</Text>
+        </Document>
+        <Document ID="17">
+            <Title>01_CD_the_idea_low-res</Title>
+        </Document>
+        <Document ID="9">
+            <Title>Specific exclusions from Scope</Title>
+            <Text>Specific exclusions from scope</Text>
         </Document>
     </Documents>
 </SearchIndexes>
